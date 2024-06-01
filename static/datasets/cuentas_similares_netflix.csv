@@ -1,0 +1,1001 @@
+Correo,Nombre,Apellido,Fecha_Ingreso,Tipo_Plan,Fecha_Pago,Categoria_Favorita,Serie_Pelicula_Favorita,Horas_Uso_Mensual,Pais,Dispositivo_Preferido,Numero_Perfiles,Recomendaciones_Activadas
+gwilliams@example.com,Megan,Chang,2021-05-26,familiar,No ha pagado,Horror,Titanic,78,Alemania,Smart TV,1,True
+nhoward@example.net,Kristen,Turner,2020-01-27,2 pantallas,No ha pagado,Comedia,Titanic,111,Francia,Tablet,5,False
+vanessa89@example.org,Donald,Davis,2020-12-04,1 pantalla,2024-05-13,Documental,The Matrix,107,Canadá,Computadora,5,False
+wcastro@example.com,Rachel,Sutton,2020-12-15,1 pantalla,2024-05-11,Comedia,The Mandalorian,40,Brasil,Smartphone,1,True
+qgrimes@example.org,James,Tran,2023-05-27,3 pantallas,2024-05-10,Ciencia Ficción,Stranger Things,130,Reino Unido,Smartphone,3,False
+ypage@example.net,Alexis,Cortez,2022-07-03,3 pantallas,2024-05-11,Documental,Inception,19,Alemania,Smart TV,2,False
+jane13@example.net,Maria,Cook,2020-06-26,1 pantalla,2024-05-14,Drama,Breaking Bad,71,Reino Unido,Tablet,3,True
+millerluke@example.net,Douglas,Daniels,2024-05-14,3 pantallas,No ha pagado,Acción,Breaking Bad,78,Reino Unido,Smartphone,4,False
+jasmine85@example.net,Tracy,Turner,2020-05-23,1 pantalla,No ha pagado,Documental,The Godfather,65,México,Smartphone,3,True
+sean96@example.com,Lauren,Payne,2022-04-03,familiar,No ha pagado,Drama,The Godfather,15,Argentina,Smart TV,5,True
+antoniozavala@example.com,Kelly,Lopez,2021-10-04,familiar,2024-05-02,Drama,The Dark Knight,27,Canadá,Computadora,4,False
+kirbyrachael@example.net,Katherine,Mcdowell,2022-10-17,1 pantalla,No ha pagado,Drama,The Mandalorian,83,Canadá,Computadora,3,True
+melissajacobson@example.net,Mary,Warren,2023-07-03,familiar,2024-05-08,Horror,Stranger Things,52,México,Smartphone,5,False
+christopher91@example.com,Joshua,Vasquez,2022-04-24,1 pantalla,No ha pagado,Drama,The Mandalorian,63,España,Smartphone,3,False
+dennisdave@example.org,Matthew,Lee,2021-03-27,familiar,2024-05-03,Acción,Breaking Bad,121,Francia,Smart TV,4,False
+melissarobinson@example.net,Ronald,Brown,2022-07-19,familiar,No ha pagado,Drama,The Mandalorian,52,Argentina,Tablet,4,False
+johnsoncynthia@example.net,Sharon,Guzman,2023-07-12,1 pantalla,No ha pagado,Drama,Stranger Things,66,Japón,Smart TV,4,True
+johnsonandrew@example.org,David,Davis,2022-12-19,familiar,No ha pagado,Drama,The Crown,44,Francia,Computadora,5,True
+gilesandrew@example.com,Timothy,Acosta,2022-06-24,familiar,2024-05-15,Comedia,Inception,89,Reino Unido,Computadora,5,False
+michael20@example.net,Chad,Jones,2021-09-17,familiar,2024-05-11,Horror,The Crown,129,Brasil,Smartphone,4,True
+michael79@example.org,Holly,Myers,2022-11-12,1 pantalla,2024-05-04,Documental,Inception,77,Canadá,Smart TV,5,False
+meganpeterson@example.com,Katrina,Kramer,2019-12-18,3 pantallas,2024-05-16,Drama,Breaking Bad,41,Alemania,Computadora,3,True
+gmccullough@example.com,Elizabeth,Smith,2022-08-15,1 pantalla,2024-05-07,Comedia,Breaking Bad,125,Francia,Smart TV,1,False
+ellischristian@example.net,Diane,Hernandez,2019-08-09,1 pantalla,No ha pagado,Acción,Inception,139,Alemania,Smartphone,2,False
+sbell@example.net,Juan,Allen,2021-03-04,2 pantallas,2024-05-17,Documental,The Crown,112,Reino Unido,Computadora,5,False
+paul61@example.org,Cynthia,Oliver,2022-05-08,1 pantalla,2024-05-12,Horror,The Dark Knight,59,Estados Unidos,Computadora,2,False
+rgray@example.net,Ernest,Walker,2023-10-01,familiar,No ha pagado,Ciencia Ficción,The Matrix,124,México,Tablet,2,False
+tbarton@example.org,Anthony,Savage,2020-03-15,2 pantallas,No ha pagado,Comedia,Breaking Bad,132,Alemania,Smart TV,1,False
+frose@example.net,Caleb,Miles,2022-05-25,1 pantalla,No ha pagado,Documental,Stranger Things,105,Canadá,Smart TV,2,True
+larry70@example.com,Aaron,Williams,2020-04-25,familiar,2024-05-17,Horror,Black Mirror,78,Brasil,Smart TV,1,False
+valeriemorales@example.net,Cynthia,Miller,2021-06-18,2 pantallas,No ha pagado,Documental,The Crown,57,Alemania,Smartphone,4,False
+bairdemma@example.net,Aaron,Smith,2019-11-12,2 pantallas,2024-05-03,Documental,The Dark Knight,148,Japón,Smartphone,1,True
+haley21@example.com,Debra,Russo,2023-08-25,2 pantallas,No ha pagado,Drama,Inception,10,Argentina,Smart TV,5,True
+robin14@example.org,Randy,Miller,2022-08-24,1 pantalla,2024-05-14,Documental,The Mandalorian,38,Alemania,Smartphone,1,False
+joshuasmith@example.org,Deanna,Wilson,2020-05-27,3 pantallas,2024-05-05,Acción,Titanic,85,Canadá,Smartphone,3,True
+mathissusan@example.net,Leroy,Richardson,2022-08-27,familiar,2024-05-13,Comedia,The Dark Knight,59,Canadá,Smartphone,5,True
+monica23@example.com,Raven,Bowman,2022-04-24,2 pantallas,No ha pagado,Horror,Breaking Bad,21,México,Smart TV,1,False
+matthew51@example.com,Alan,Hernandez,2023-04-10,3 pantallas,2024-05-01,Comedia,The Godfather,135,Francia,Computadora,4,True
+michael82@example.com,Joseph,Hernandez,2019-12-13,1 pantalla,2024-05-13,Horror,Stranger Things,64,Estados Unidos,Computadora,2,True
+turnermary@example.com,Sarah,Parker,2021-06-13,familiar,No ha pagado,Comedia,Inception,126,Francia,Smartphone,5,False
+zrogers@example.com,Cory,Kerr,2019-12-31,1 pantalla,No ha pagado,Acción,The Crown,73,Francia,Computadora,3,False
+turnerjessica@example.org,Darren,Jimenez,2023-12-23,familiar,2024-05-11,Documental,The Matrix,26,México,Smartphone,4,False
+joneschristopher@example.net,Nicholas,Villegas,2020-06-24,familiar,2024-05-07,Ciencia Ficción,Titanic,84,España,Computadora,4,True
+shane79@example.net,Corey,Hawkins,2022-10-10,3 pantallas,No ha pagado,Acción,The Mandalorian,39,Canadá,Computadora,4,True
+brenda26@example.org,Rodney,Richardson,2021-03-03,2 pantallas,2024-05-02,Ciencia Ficción,The Matrix,68,Canadá,Computadora,1,True
+mgoodwin@example.org,Michelle,Miles,2021-11-11,familiar,No ha pagado,Horror,Titanic,118,Argentina,Smart TV,2,True
+cindygarcia@example.com,Jonathan,Davidson,2021-04-07,3 pantallas,No ha pagado,Drama,The Mandalorian,30,Estados Unidos,Computadora,1,True
+zhernandez@example.net,Amy,Hernandez,2022-10-11,2 pantallas,2024-05-15,Acción,The Matrix,99,Alemania,Tablet,1,False
+martha73@example.net,Tyler,Stark,2022-06-05,2 pantallas,2024-05-04,Acción,The Matrix,114,Brasil,Smart TV,3,True
+lisa08@example.org,Matthew,Estes,2023-10-01,1 pantalla,No ha pagado,Ciencia Ficción,The Crown,48,Francia,Tablet,5,False
+taguilar@example.net,Carrie,Moore,2023-05-31,2 pantallas,2024-05-02,Comedia,Breaking Bad,9,Francia,Smartphone,4,False
+jonesdavid@example.com,Christopher,Melton,2019-06-14,3 pantallas,No ha pagado,Horror,The Mandalorian,31,Alemania,Tablet,3,True
+laurenmelton@example.com,Megan,Rivera,2024-03-21,familiar,2024-05-09,Drama,The Godfather,74,Francia,Tablet,3,False
+gregorylinda@example.net,Rachel,Shaw,2024-04-30,3 pantallas,2024-05-13,Drama,The Matrix,76,Alemania,Computadora,4,False
+epetersen@example.com,Rebecca,Harris,2022-05-31,2 pantallas,No ha pagado,Drama,The Mandalorian,134,Estados Unidos,Tablet,4,True
+sandovalaaron@example.org,Jesus,Hancock,2020-11-20,3 pantallas,No ha pagado,Ciencia Ficción,The Crown,23,México,Smartphone,4,True
+theath@example.com,Ashley,Cook,2021-04-18,1 pantalla,2024-05-07,Ciencia Ficción,The Godfather,19,Reino Unido,Tablet,4,False
+justingreer@example.org,Frank,Walls,2024-02-01,2 pantallas,2024-05-09,Acción,Breaking Bad,48,Reino Unido,Computadora,2,True
+nunezedward@example.com,Donald,Wu,2021-06-07,1 pantalla,2024-05-11,Acción,Stranger Things,102,México,Computadora,5,True
+bosborne@example.org,Paul,Williams,2022-05-15,2 pantallas,No ha pagado,Documental,Stranger Things,12,Reino Unido,Computadora,3,False
+james71@example.org,David,Nguyen,2022-06-05,familiar,2024-05-08,Acción,Breaking Bad,32,Francia,Smart TV,5,True
+montesjennifer@example.com,Cynthia,Morgan,2023-04-27,familiar,No ha pagado,Ciencia Ficción,Inception,17,Reino Unido,Tablet,1,False
+sabrina18@example.org,David,Buck,2019-07-26,familiar,No ha pagado,Documental,Black Mirror,54,Japón,Smart TV,4,True
+stanleyclarke@example.org,Philip,Watson,2024-02-28,3 pantallas,2024-05-16,Horror,The Godfather,127,Alemania,Smart TV,1,True
+duffyelizabeth@example.net,Bill,Scott,2023-10-04,2 pantallas,No ha pagado,Documental,The Crown,56,Canadá,Smart TV,2,False
+hhunter@example.org,Jerry,Frank,2021-07-04,1 pantalla,2024-05-10,Drama,Titanic,40,México,Computadora,2,True
+abrown@example.org,Sandra,Walls,2023-01-18,3 pantallas,No ha pagado,Comedia,The Godfather,129,Japón,Smart TV,5,False
+ujohnson@example.net,Anthony,Griffin,2020-08-21,familiar,2024-05-06,Horror,Titanic,119,Alemania,Smartphone,4,False
+michael03@example.com,David,Holt,2019-09-23,1 pantalla,No ha pagado,Ciencia Ficción,The Dark Knight,43,Estados Unidos,Tablet,2,False
+donnadennis@example.org,Patricia,Clark,2023-02-12,1 pantalla,2024-05-05,Drama,The Crown,77,Argentina,Computadora,5,True
+michelelopez@example.org,Hannah,Cantu,2021-10-04,familiar,2024-05-13,Horror,Breaking Bad,32,Brasil,Tablet,2,False
+michaelkennedy@example.com,Jonathan,Johnson,2020-11-09,1 pantalla,No ha pagado,Comedia,The Dark Knight,42,Francia,Tablet,5,False
+jack11@example.net,Natalie,Tran,2022-04-13,1 pantalla,2024-05-03,Acción,The Dark Knight,18,Francia,Tablet,3,True
+lesliesanchez@example.org,Rachael,Bautista,2020-10-30,3 pantallas,2024-05-08,Ciencia Ficción,The Dark Knight,118,Canadá,Smartphone,5,False
+longjacqueline@example.org,Brandon,Anderson,2021-06-23,3 pantallas,No ha pagado,Drama,Stranger Things,98,Reino Unido,Computadora,2,False
+brittanyevans@example.com,Andrea,Yang,2019-10-19,2 pantallas,2024-05-08,Documental,The Matrix,139,Alemania,Smart TV,3,True
+bennettalan@example.net,Mike,Rush,2023-11-19,1 pantalla,No ha pagado,Horror,Inception,55,Francia,Tablet,2,True
+ldavis@example.org,Scott,Watson,2020-10-05,1 pantalla,2024-05-10,Ciencia Ficción,Black Mirror,131,Estados Unidos,Smartphone,1,False
+lhebert@example.com,Haley,Flynn,2021-07-14,2 pantallas,No ha pagado,Drama,Breaking Bad,143,Argentina,Computadora,5,True
+michaelwelch@example.org,John,Chavez,2021-10-16,2 pantallas,2024-05-04,Documental,Breaking Bad,139,Brasil,Smart TV,1,False
+tsmith@example.org,Aaron,Hale,2023-03-22,familiar,No ha pagado,Comedia,The Dark Knight,56,México,Tablet,1,False
+rogerpotter@example.org,Cristina,Gardner,2022-10-08,2 pantallas,2024-05-13,Comedia,Titanic,27,Japón,Smart TV,2,True
+crystal01@example.com,Jesse,Gill,2023-10-18,3 pantallas,2024-05-01,Ciencia Ficción,The Dark Knight,86,Estados Unidos,Smart TV,5,True
+vwallace@example.com,Jonathan,Fox,2021-02-22,familiar,No ha pagado,Horror,Breaking Bad,70,México,Tablet,3,False
+caitlinjohnson@example.com,Monica,Chambers,2020-11-26,familiar,2024-05-06,Documental,Black Mirror,127,Francia,Smartphone,2,True
+carloscallahan@example.com,Alyssa,Wright,2021-12-22,1 pantalla,No ha pagado,Comedia,Titanic,103,Reino Unido,Smartphone,2,True
+jenkinscynthia@example.com,Audrey,Burton,2023-01-31,2 pantallas,No ha pagado,Drama,The Matrix,64,Reino Unido,Computadora,3,True
+owatson@example.org,Rebecca,Ramirez,2020-02-28,familiar,No ha pagado,Comedia,The Crown,121,México,Tablet,1,True
+qtaylor@example.com,Heidi,James,2021-02-22,2 pantallas,2024-05-09,Comedia,The Crown,38,México,Smart TV,4,False
+trevor07@example.com,Robert,Woods,2020-02-02,familiar,2024-05-09,Ciencia Ficción,The Matrix,77,España,Tablet,3,False
+thomas08@example.org,Paige,Lewis,2022-10-23,1 pantalla,No ha pagado,Documental,Black Mirror,72,Francia,Tablet,4,False
+csmith@example.org,Christopher,Avery,2022-06-25,3 pantallas,2024-05-17,Comedia,The Matrix,69,España,Smart TV,5,True
+donaldberry@example.org,Morgan,Lyons,2019-11-26,2 pantallas,2024-05-08,Horror,Stranger Things,30,Brasil,Tablet,4,True
+rwong@example.com,Mark,Jackson,2020-02-12,2 pantallas,No ha pagado,Acción,The Crown,66,Alemania,Smartphone,5,False
+david27@example.com,Sarah,Hernandez,2023-04-29,3 pantallas,No ha pagado,Drama,Breaking Bad,64,Alemania,Smart TV,5,False
+yblair@example.org,Paul,Roman,2021-07-28,1 pantalla,No ha pagado,Ciencia Ficción,Stranger Things,138,España,Smartphone,2,True
+ojohnson@example.org,James,Mckinney,2023-09-25,1 pantalla,2024-05-07,Drama,Titanic,66,Reino Unido,Smart TV,2,False
+cherylsalazar@example.net,Julia,Byrd,2023-09-21,familiar,2024-05-13,Drama,Titanic,128,Estados Unidos,Computadora,3,True
+oellis@example.net,Kelsey,Andrade,2021-12-15,familiar,2024-05-17,Horror,The Dark Knight,25,México,Tablet,4,True
+fcarpenter@example.com,Stephanie,Spears,2022-11-24,familiar,No ha pagado,Drama,Titanic,6,Francia,Smartphone,3,True
+williamsmichael@example.com,Jason,Adams,2022-08-26,3 pantallas,2024-05-03,Horror,Inception,104,Alemania,Computadora,2,True
+ogrant@example.com,Kristin,Becker,2020-05-04,2 pantallas,2024-05-11,Comedia,The Matrix,127,Japón,Smart TV,1,True
+marcus75@example.com,Catherine,Miller,2019-07-09,1 pantalla,No ha pagado,Documental,The Dark Knight,148,Reino Unido,Smart TV,2,False
+mollyreed@example.org,Bradley,Wood,2020-08-19,familiar,No ha pagado,Drama,The Matrix,37,Francia,Smartphone,1,False
+wscott@example.net,Jessica,Turner,2020-07-29,familiar,No ha pagado,Documental,Breaking Bad,145,Argentina,Tablet,5,True
+murrayjenny@example.org,Kevin,Arnold,2023-12-18,familiar,No ha pagado,Ciencia Ficción,Titanic,131,México,Tablet,3,True
+fwilson@example.org,Robert,Snyder,2019-11-14,1 pantalla,No ha pagado,Ciencia Ficción,The Matrix,16,México,Computadora,5,True
+scottjones@example.com,Kathy,Gutierrez,2022-03-04,1 pantalla,No ha pagado,Acción,Inception,102,Reino Unido,Tablet,5,False
+johnrobinson@example.com,Olivia,Foster,2024-01-19,3 pantallas,No ha pagado,Acción,Stranger Things,128,España,Smart TV,4,True
+chelsea34@example.com,Luis,Graham,2021-12-12,2 pantallas,2024-05-08,Ciencia Ficción,Stranger Things,17,Japón,Tablet,5,False
+wilsonkristen@example.org,Cynthia,Nelson,2020-03-28,familiar,2024-05-08,Horror,The Mandalorian,18,España,Smartphone,5,False
+harmonzachary@example.org,Jeffery,Hobbs,2019-12-26,familiar,No ha pagado,Drama,Inception,132,Brasil,Smartphone,1,False
+jerome84@example.org,Deanna,Wilson,2023-01-28,1 pantalla,2024-05-16,Comedia,Black Mirror,75,Francia,Computadora,1,True
+jesus74@example.net,Calvin,Parker,2020-03-26,1 pantalla,2024-05-14,Documental,Stranger Things,104,Estados Unidos,Smartphone,2,False
+burnettnatalie@example.org,Angela,Murphy,2024-04-03,2 pantallas,No ha pagado,Drama,The Matrix,16,Brasil,Smartphone,1,False
+kimberlyhampton@example.net,William,Jones,2023-03-19,familiar,2024-05-17,Acción,Titanic,140,Estados Unidos,Smart TV,2,False
+kathleengomez@example.net,Joe,Anderson,2020-01-15,1 pantalla,No ha pagado,Comedia,Inception,61,Reino Unido,Smart TV,1,False
+foxmichael@example.com,Vernon,Hardin,2020-12-01,1 pantalla,2024-05-17,Drama,The Mandalorian,64,Francia,Smart TV,1,False
+vlamb@example.com,Angela,Martin,2022-02-08,1 pantalla,No ha pagado,Comedia,The Matrix,125,Estados Unidos,Smart TV,5,False
+cassandrawarner@example.com,Janet,Miller,2023-04-21,1 pantalla,No ha pagado,Ciencia Ficción,Stranger Things,126,Reino Unido,Smartphone,4,True
+edwardsjulie@example.org,Patrick,Brown,2021-02-02,1 pantalla,No ha pagado,Ciencia Ficción,The Dark Knight,47,Estados Unidos,Tablet,3,False
+jordanpowers@example.com,Scott,Swanson,2019-06-18,3 pantallas,2024-05-10,Documental,Inception,37,Japón,Smartphone,4,True
+andrew00@example.org,Brian,Mccoy,2019-08-08,3 pantallas,No ha pagado,Ciencia Ficción,The Dark Knight,133,Reino Unido,Smartphone,4,True
+nicholsonmichael@example.net,Jeremiah,Valdez,2021-06-28,1 pantalla,No ha pagado,Drama,Breaking Bad,126,Argentina,Computadora,5,True
+tthomas@example.org,Patricia,Robinson,2022-08-15,familiar,2024-05-13,Acción,Black Mirror,77,Reino Unido,Tablet,3,False
+ortizjoseph@example.net,Kristen,Ortiz,2023-05-27,2 pantallas,No ha pagado,Acción,The Crown,33,Argentina,Smart TV,3,False
+cunninghamdavid@example.com,Tina,Bush,2020-03-25,3 pantallas,2024-05-09,Drama,Inception,62,Japón,Computadora,5,False
+christopheryoung@example.org,Christy,Stanley,2020-08-10,3 pantallas,2024-05-01,Comedia,The Mandalorian,61,Argentina,Computadora,5,True
+jennifersimmons@example.net,Lindsay,Jackson,2019-11-23,familiar,2024-05-11,Drama,Stranger Things,34,Reino Unido,Tablet,3,True
+kinglinda@example.net,Jennifer,Mendez,2021-04-04,1 pantalla,2024-05-11,Acción,Inception,133,México,Smartphone,4,False
+kelly27@example.org,Pamela,Crawford,2021-11-30,familiar,2024-05-03,Ciencia Ficción,The Dark Knight,127,Japón,Computadora,3,False
+ablackburn@example.com,Karen,Morgan,2022-01-10,familiar,No ha pagado,Drama,The Godfather,19,Estados Unidos,Smart TV,4,False
+mejiaashley@example.com,Keith,Harrison,2024-01-18,1 pantalla,2024-05-01,Comedia,Stranger Things,63,Canadá,Smartphone,4,False
+tyler04@example.net,Randall,Wilson,2024-05-10,familiar,No ha pagado,Horror,The Dark Knight,137,Francia,Smart TV,1,False
+wanda38@example.net,Jonathan,Becker,2021-01-28,familiar,No ha pagado,Acción,The Matrix,70,Brasil,Computadora,2,True
+darrenholden@example.org,Tiffany,Bonilla,2022-04-22,2 pantallas,No ha pagado,Acción,Titanic,132,Alemania,Smart TV,1,True
+francisco25@example.net,Jennifer,Maldonado,2023-06-24,2 pantallas,2024-05-10,Comedia,Titanic,51,Reino Unido,Computadora,4,True
+michael45@example.com,Brett,Moore,2023-04-17,2 pantallas,2024-05-11,Comedia,Stranger Things,61,Alemania,Computadora,5,True
+ashleyramos@example.com,Vanessa,Smith,2024-01-09,2 pantallas,No ha pagado,Comedia,The Godfather,92,Argentina,Computadora,3,False
+julie31@example.net,Stacy,Castillo,2024-01-22,1 pantalla,2024-05-05,Documental,The Matrix,17,México,Smart TV,1,True
+hopkinseric@example.org,Maria,Moreno,2024-02-01,familiar,2024-05-11,Drama,The Mandalorian,120,España,Smart TV,3,True
+sbaker@example.org,Amy,Cruz,2021-07-09,familiar,2024-05-17,Ciencia Ficción,Stranger Things,92,México,Computadora,4,True
+veronica36@example.org,Jennifer,Shah,2023-08-08,3 pantallas,No ha pagado,Comedia,Breaking Bad,70,Japón,Tablet,4,True
+cward@example.net,Karen,Moore,2023-12-10,1 pantalla,2024-05-11,Comedia,The Dark Knight,127,México,Computadora,1,False
+coxtina@example.org,Lauren,Wolf,2022-10-11,3 pantallas,No ha pagado,Documental,Breaking Bad,79,España,Tablet,2,False
+vsmith@example.org,Crystal,Burton,2022-03-27,3 pantallas,2024-05-05,Horror,Inception,25,Estados Unidos,Tablet,2,True
+cmiller@example.org,Jacob,Chang,2023-02-05,familiar,2024-05-08,Drama,Inception,44,Alemania,Smartphone,2,False
+rubiofrank@example.org,William,Roman,2024-01-07,familiar,No ha pagado,Horror,The Godfather,68,México,Computadora,2,False
+samuel59@example.com,Cynthia,Shepard,2019-10-30,3 pantallas,No ha pagado,Comedia,The Matrix,55,Francia,Smartphone,1,False
+james66@example.com,Anthony,Smith,2023-04-03,3 pantallas,No ha pagado,Drama,The Matrix,93,España,Computadora,4,False
+aguilarmichael@example.net,Connie,Price,2020-01-04,familiar,No ha pagado,Comedia,The Godfather,144,Alemania,Computadora,4,False
+sanderssamantha@example.org,Jennifer,Murphy,2019-08-01,3 pantallas,No ha pagado,Comedia,The Mandalorian,93,México,Tablet,4,False
+jonesjennifer@example.net,Ashlee,Reed,2022-01-29,2 pantallas,No ha pagado,Comedia,Black Mirror,15,España,Smart TV,3,True
+edwardsrebecca@example.net,Bradley,Hebert,2020-10-01,3 pantallas,No ha pagado,Drama,The Mandalorian,22,Alemania,Smart TV,3,True
+gdelacruz@example.org,Emily,Larson,2020-03-10,2 pantallas,No ha pagado,Horror,Black Mirror,100,España,Smartphone,1,True
+blairapril@example.net,Patricia,Lozano,2022-10-31,3 pantallas,2024-05-12,Acción,Stranger Things,143,Argentina,Tablet,4,True
+millergreg@example.com,Paul,White,2020-05-20,familiar,No ha pagado,Documental,Breaking Bad,25,Canadá,Smart TV,1,False
+kimberly87@example.org,Jose,Graves,2023-02-28,3 pantallas,No ha pagado,Acción,Breaking Bad,31,Canadá,Smart TV,5,True
+darlenejohnson@example.com,Shane,Hernandez,2023-06-20,2 pantallas,No ha pagado,Ciencia Ficción,Breaking Bad,144,México,Computadora,5,False
+zcarr@example.com,Charles,Wong,2021-12-27,1 pantalla,No ha pagado,Ciencia Ficción,The Dark Knight,49,Alemania,Smart TV,3,False
+thomaspeters@example.net,Jenna,Durham,2019-10-15,3 pantallas,2024-05-09,Drama,Black Mirror,77,Alemania,Computadora,2,True
+pattersonmichael@example.com,Aaron,Hampton,2021-01-20,3 pantallas,No ha pagado,Comedia,Breaking Bad,91,Alemania,Computadora,2,False
+taylorsara@example.org,Nicholas,Cox,2023-01-17,1 pantalla,2024-05-01,Acción,The Crown,149,Brasil,Smartphone,4,True
+sbrewer@example.com,Norma,Lee,2023-05-12,familiar,No ha pagado,Documental,Black Mirror,137,Alemania,Smart TV,2,True
+michaelconley@example.org,Rhonda,Burke,2021-06-01,1 pantalla,2024-05-08,Acción,Black Mirror,75,Francia,Tablet,5,True
+emily97@example.com,Cassandra,Oliver,2020-04-12,familiar,2024-05-08,Drama,Stranger Things,138,España,Smart TV,1,True
+howarddavid@example.com,Joseph,Avery,2019-06-25,1 pantalla,2024-05-07,Horror,Stranger Things,140,Canadá,Tablet,5,True
+stephen87@example.com,Hannah,Prince,2019-10-11,familiar,2024-05-01,Documental,Black Mirror,106,Estados Unidos,Tablet,1,False
+anthony81@example.org,Michelle,Gibbs,2021-01-16,1 pantalla,2024-05-17,Documental,Inception,117,Estados Unidos,Tablet,3,False
+susan06@example.com,Thomas,Johnson,2020-02-28,3 pantallas,2024-05-10,Ciencia Ficción,Inception,133,Japón,Smartphone,5,False
+daniellesanchez@example.net,Dylan,Thompson,2021-01-06,3 pantallas,No ha pagado,Horror,The Dark Knight,121,España,Computadora,3,True
+pwilliams@example.net,Andrew,Benjamin,2020-10-13,2 pantallas,No ha pagado,Drama,Inception,147,México,Computadora,1,True
+frankfisher@example.com,George,Allen,2023-10-05,2 pantallas,No ha pagado,Ciencia Ficción,The Crown,98,Argentina,Computadora,1,False
+martinbrandy@example.net,Devin,Cunningham,2021-04-29,3 pantallas,No ha pagado,Ciencia Ficción,The Mandalorian,94,Brasil,Tablet,5,True
+johnsonmarcus@example.org,Laurie,Cooke,2019-07-26,3 pantallas,2024-05-14,Horror,The Dark Knight,111,Brasil,Smart TV,2,True
+emilyjames@example.org,Daniel,Carr,2021-06-21,1 pantalla,2024-05-10,Documental,Stranger Things,30,España,Smartphone,2,True
+michaelrobinson@example.com,Glenda,Dawson,2019-09-28,2 pantallas,No ha pagado,Documental,Black Mirror,41,Reino Unido,Smart TV,3,False
+reynoldsryan@example.com,Ricky,Hopkins,2021-04-14,1 pantalla,No ha pagado,Documental,Inception,86,Japón,Tablet,2,False
+lsanders@example.org,Sabrina,Allen,2023-07-22,familiar,No ha pagado,Documental,Stranger Things,145,España,Computadora,5,False
+amy99@example.com,Whitney,Dyer,2023-10-05,2 pantallas,No ha pagado,Ciencia Ficción,The Crown,64,Argentina,Smartphone,4,True
+gmaynard@example.net,Joshua,Carr,2023-10-07,3 pantallas,2024-05-01,Acción,Black Mirror,46,Japón,Smart TV,5,True
+zsimon@example.com,Jennifer,Johnson,2024-01-01,3 pantallas,No ha pagado,Documental,The Dark Knight,85,Francia,Smart TV,4,True
+genewells@example.org,Jennifer,Munoz,2022-04-30,3 pantallas,2024-05-17,Horror,Stranger Things,78,Canadá,Tablet,5,True
+michael57@example.net,Justin,Gordon,2021-12-20,2 pantallas,No ha pagado,Documental,Inception,75,Alemania,Smart TV,2,True
+gregory95@example.com,Brian,Wiley,2021-04-11,2 pantallas,No ha pagado,Drama,The Godfather,75,Japón,Computadora,3,False
+flemingjoseph@example.net,Blake,Arnold,2020-06-01,familiar,2024-05-03,Ciencia Ficción,Black Mirror,20,Argentina,Tablet,5,False
+jordanraymond@example.org,Daniel,Kelly,2022-08-02,3 pantallas,No ha pagado,Drama,The Mandalorian,73,Japón,Tablet,4,True
+jgardner@example.org,Jasmine,Miller,2020-03-22,2 pantallas,No ha pagado,Acción,The Matrix,53,Argentina,Smartphone,2,True
+lorikelly@example.net,Jared,Perez,2023-01-21,familiar,2024-05-13,Ciencia Ficción,The Crown,75,Alemania,Smartphone,4,False
+qayala@example.org,Matthew,Wilson,2021-02-01,2 pantallas,2024-05-09,Comedia,Black Mirror,5,Reino Unido,Smart TV,3,False
+vrollins@example.net,Martin,Neal,2020-11-25,3 pantallas,2024-05-15,Horror,The Mandalorian,6,España,Computadora,1,True
+ahunt@example.com,Victoria,Reed,2023-06-11,1 pantalla,No ha pagado,Comedia,The Mandalorian,109,Reino Unido,Smartphone,4,True
+silvacynthia@example.net,Frances,Moore,2019-11-29,1 pantalla,2024-05-14,Documental,The Matrix,41,España,Computadora,1,True
+adamsjessica@example.org,Helen,Larson,2021-04-03,1 pantalla,No ha pagado,Acción,Inception,140,Alemania,Tablet,1,False
+lisa75@example.org,Laura,Smith,2022-10-04,familiar,No ha pagado,Horror,The Matrix,16,México,Smart TV,2,False
+oburnett@example.org,Miguel,Horton,2022-03-09,2 pantallas,2024-05-15,Ciencia Ficción,Inception,50,México,Smartphone,4,False
+anthonyday@example.org,Christian,Gates,2023-10-09,familiar,No ha pagado,Acción,Black Mirror,89,Alemania,Tablet,5,True
+samuelsutton@example.com,Zachary,Franklin,2019-06-25,3 pantallas,No ha pagado,Documental,Breaking Bad,121,Brasil,Smart TV,5,True
+ycunningham@example.org,Dennis,Price,2022-08-06,1 pantalla,No ha pagado,Ciencia Ficción,The Mandalorian,21,Francia,Computadora,1,True
+nwilliams@example.org,Richard,Hall,2020-09-19,familiar,2024-05-09,Documental,The Dark Knight,81,Alemania,Smartphone,1,False
+herbert85@example.org,Andrea,Long,2020-11-20,2 pantallas,2024-05-11,Acción,The Matrix,131,Estados Unidos,Smartphone,1,False
+mendozaashlee@example.com,Sabrina,Bryant,2022-02-27,familiar,2024-05-05,Documental,Breaking Bad,124,Canadá,Tablet,1,True
+michaeldavis@example.net,Jerry,Rodriguez,2023-09-12,familiar,2024-05-14,Ciencia Ficción,Stranger Things,99,Japón,Computadora,3,False
+johnsonrichard@example.net,Derrick,Hansen,2023-02-26,3 pantallas,No ha pagado,Ciencia Ficción,The Dark Knight,147,Argentina,Smartphone,1,True
+xhansen@example.com,Tracy,Vaughn,2023-09-28,familiar,No ha pagado,Horror,The Dark Knight,40,Alemania,Smart TV,5,False
+troberson@example.com,Gina,Allen,2020-07-01,1 pantalla,2024-05-09,Acción,Stranger Things,148,Brasil,Smart TV,1,True
+christopher49@example.com,Stacey,Hicks,2020-07-04,3 pantallas,2024-05-07,Horror,Stranger Things,57,Brasil,Smart TV,4,False
+keithgonzalez@example.com,Patrick,Chang,2022-09-04,3 pantallas,No ha pagado,Acción,Inception,97,Alemania,Tablet,5,True
+mariahwilson@example.com,Kimberly,Campbell,2021-11-16,familiar,No ha pagado,Horror,The Dark Knight,150,Argentina,Computadora,1,False
+crystal56@example.com,Thomas,Douglas,2021-03-04,2 pantallas,No ha pagado,Drama,Titanic,81,Brasil,Computadora,1,True
+michelle74@example.org,Richard,Miranda,2021-08-09,2 pantallas,No ha pagado,Comedia,Titanic,150,Argentina,Smart TV,4,False
+sarahmorgan@example.org,Maurice,Sanchez,2019-12-04,2 pantallas,2024-05-07,Acción,The Godfather,98,España,Smart TV,2,True
+emmashaw@example.com,Paul,Palmer,2020-07-16,3 pantallas,2024-05-09,Acción,Inception,121,Argentina,Computadora,3,True
+omacdonald@example.com,Aaron,Ruiz,2024-04-19,familiar,2024-05-10,Ciencia Ficción,Inception,125,Estados Unidos,Smart TV,4,False
+jessicawhite@example.org,Billy,Davis,2023-05-13,3 pantallas,No ha pagado,Comedia,Inception,78,Reino Unido,Tablet,1,False
+smithamanda@example.org,Michael,Hall,2019-12-16,familiar,No ha pagado,Documental,The Dark Knight,118,Reino Unido,Smart TV,2,False
+christopherowens@example.org,Cassandra,Donovan,2021-12-23,1 pantalla,No ha pagado,Documental,Stranger Things,83,Argentina,Tablet,3,False
+saraperez@example.com,Christine,Perry,2021-04-14,3 pantallas,2024-05-14,Documental,The Godfather,38,Argentina,Smartphone,2,True
+gilbertjoseph@example.net,Ryan,James,2021-02-10,2 pantallas,No ha pagado,Comedia,The Godfather,29,Argentina,Computadora,5,False
+mdavidson@example.net,Michael,Rogers,2019-11-02,1 pantalla,No ha pagado,Ciencia Ficción,Stranger Things,126,México,Smart TV,1,True
+andrew29@example.net,Sierra,Espinoza,2020-01-21,1 pantalla,2024-05-04,Horror,The Godfather,131,México,Smart TV,5,False
+hromero@example.net,Theresa,Flores,2019-11-26,3 pantallas,No ha pagado,Documental,The Mandalorian,137,Japón,Smart TV,2,True
+dharrison@example.net,Rhonda,Martinez,2021-01-27,1 pantalla,No ha pagado,Acción,The Mandalorian,128,Canadá,Computadora,1,True
+lori37@example.org,Robert,Bennett,2021-02-17,2 pantallas,No ha pagado,Documental,Inception,5,Argentina,Smartphone,2,False
+acummings@example.net,Kimberly,Jenkins,2021-05-26,2 pantallas,No ha pagado,Drama,Titanic,80,Reino Unido,Smart TV,3,True
+eallen@example.com,Kathryn,Griffin,2020-01-30,2 pantallas,No ha pagado,Documental,Black Mirror,68,México,Smartphone,3,True
+jgreene@example.net,Scott,Ward,2022-10-19,2 pantallas,No ha pagado,Horror,The Crown,43,Francia,Smart TV,3,True
+shaheric@example.org,Jacob,Cantu,2021-01-18,3 pantallas,2024-05-11,Documental,The Godfather,17,Alemania,Smart TV,4,False
+abyrd@example.com,Ethan,Yoder,2020-05-02,familiar,2024-05-07,Ciencia Ficción,The Matrix,119,Estados Unidos,Tablet,3,True
+pam83@example.net,Kristin,Pham,2021-01-06,2 pantallas,2024-05-09,Comedia,The Dark Knight,66,Alemania,Smart TV,1,True
+shernandez@example.net,Amy,York,2021-11-04,familiar,No ha pagado,Drama,The Mandalorian,150,Argentina,Smartphone,5,False
+fjohnson@example.net,Elizabeth,Mcfarland,2023-08-06,familiar,No ha pagado,Documental,The Crown,77,España,Computadora,3,True
+brownjohn@example.net,Angela,Gonzalez,2022-06-05,2 pantallas,No ha pagado,Horror,The Mandalorian,98,México,Computadora,3,True
+omiddleton@example.com,Donna,Rodriguez,2023-10-21,3 pantallas,2024-05-06,Horror,Black Mirror,97,Reino Unido,Computadora,2,False
+jennifer67@example.net,Gina,Martin,2020-12-18,1 pantalla,2024-05-17,Documental,Breaking Bad,7,Brasil,Smartphone,4,True
+waltonstephanie@example.com,Carlos,Robinson,2024-02-17,3 pantallas,2024-05-13,Comedia,Stranger Things,49,Canadá,Tablet,5,True
+smithjared@example.com,Jason,Richardson,2022-04-21,3 pantallas,2024-05-15,Horror,The Godfather,119,Alemania,Smart TV,1,True
+yuelizabeth@example.net,Robert,Clark,2022-08-04,1 pantalla,2024-05-09,Acción,The Dark Knight,72,Alemania,Smartphone,4,True
+jacobsjessica@example.org,Omar,Medina,2020-05-24,3 pantallas,2024-05-11,Comedia,The Godfather,134,Brasil,Tablet,2,False
+saundersjohn@example.org,Michael,Miller,2022-04-26,1 pantalla,No ha pagado,Ciencia Ficción,The Crown,80,México,Smartphone,4,True
+lgreen@example.com,Susan,Richardson,2020-10-07,2 pantallas,2024-05-15,Comedia,The Crown,116,Reino Unido,Smart TV,4,False
+jeremy94@example.org,Jeffrey,Cruz,2019-08-06,familiar,2024-05-06,Drama,Titanic,57,Estados Unidos,Tablet,4,True
+ygraham@example.net,Breanna,Washington,2023-09-27,1 pantalla,No ha pagado,Documental,Titanic,31,España,Computadora,3,False
+kathleenmcclure@example.org,Darryl,Lawson,2022-11-26,familiar,No ha pagado,Acción,Stranger Things,125,Argentina,Tablet,1,True
+patrick54@example.com,John,Soto,2022-06-16,familiar,No ha pagado,Drama,The Crown,135,Canadá,Tablet,3,False
+morganandrea@example.org,Dana,Mcgee,2023-12-01,2 pantallas,2024-05-14,Documental,Stranger Things,61,Alemania,Smartphone,3,False
+mauricecarney@example.net,Dana,Scott,2022-03-08,3 pantallas,2024-05-17,Drama,The Matrix,146,Brasil,Tablet,5,True
+meyermichelle@example.net,Katherine,King,2020-01-07,1 pantalla,No ha pagado,Horror,Stranger Things,92,Francia,Smart TV,4,False
+michaelgrant@example.net,Austin,Pittman,2020-06-17,familiar,2024-05-04,Documental,Titanic,62,Francia,Tablet,4,True
+chelseamcgee@example.com,Elizabeth,Hall,2020-03-01,2 pantallas,2024-05-13,Horror,Titanic,22,México,Tablet,1,True
+jasonclayton@example.org,Patricia,Dickson,2020-10-04,3 pantallas,No ha pagado,Documental,The Crown,33,Argentina,Smartphone,4,True
+kellermark@example.net,Elizabeth,Hammond,2023-04-15,3 pantallas,2024-05-06,Horror,Inception,18,España,Computadora,2,False
+jacksonjoshua@example.org,Christopher,Smith,2021-12-09,3 pantallas,2024-05-06,Drama,Inception,132,España,Tablet,5,True
+lmartinez@example.com,Shane,Perry,2024-05-11,1 pantalla,No ha pagado,Horror,The Mandalorian,144,México,Smart TV,4,True
+snunez@example.org,Grant,Allen,2019-06-28,2 pantallas,No ha pagado,Ciencia Ficción,The Godfather,44,Reino Unido,Smartphone,3,True
+pittsdonna@example.com,Alan,Singleton,2024-04-07,3 pantallas,No ha pagado,Comedia,Titanic,85,Alemania,Tablet,3,False
+melissaschwartz@example.org,Desiree,Mitchell,2020-09-03,familiar,No ha pagado,Documental,The Godfather,19,Estados Unidos,Smartphone,4,True
+brandi45@example.net,Brian,Price,2021-10-28,2 pantallas,2024-05-08,Horror,Breaking Bad,10,Estados Unidos,Smartphone,1,True
+halllindsey@example.com,David,Brooks,2019-07-12,familiar,2024-05-02,Horror,Inception,61,España,Smartphone,4,True
+susansmith@example.com,Corey,White,2022-01-02,3 pantallas,2024-05-03,Horror,The Mandalorian,146,México,Computadora,2,True
+sreynolds@example.org,John,Campbell,2020-03-13,familiar,2024-05-16,Comedia,The Godfather,10,México,Smart TV,2,False
+jeffreyturner@example.org,Alexandria,Harris,2020-04-22,3 pantallas,2024-05-17,Horror,The Matrix,55,México,Tablet,3,False
+tschaefer@example.org,Amy,White,2020-08-04,2 pantallas,No ha pagado,Horror,The Dark Knight,92,Francia,Smartphone,1,True
+juliewarren@example.com,Ann,Ibarra,2023-05-16,familiar,2024-05-15,Ciencia Ficción,Black Mirror,137,Estados Unidos,Computadora,3,True
+mtyler@example.org,Jenna,Smith,2021-06-08,3 pantallas,2024-05-07,Acción,The Godfather,91,España,Smart TV,1,True
+fgarcia@example.net,Paul,Cruz,2019-06-08,3 pantallas,2024-05-15,Documental,The Matrix,14,España,Smart TV,3,False
+juliecole@example.com,Christopher,Nixon,2024-04-20,2 pantallas,No ha pagado,Ciencia Ficción,Stranger Things,79,Alemania,Tablet,5,True
+jessica29@example.org,Teresa,Stanley,2023-01-30,2 pantallas,No ha pagado,Acción,The Mandalorian,119,Argentina,Tablet,5,False
+dixoncarl@example.com,Michaela,Gill,2020-08-14,3 pantallas,No ha pagado,Ciencia Ficción,Titanic,72,Francia,Computadora,2,False
+carolbeard@example.com,Jennifer,Prince,2019-06-11,3 pantallas,2024-05-03,Documental,Titanic,81,Brasil,Smartphone,4,False
+warren42@example.org,Elizabeth,Richardson,2021-10-09,3 pantallas,2024-05-13,Horror,The Crown,13,Canadá,Tablet,2,False
+tmorgan@example.com,Martha,Gonzalez,2020-01-27,1 pantalla,2024-05-14,Horror,Breaking Bad,100,Argentina,Smartphone,1,False
+michael96@example.com,Sharon,Haynes,2022-04-09,3 pantallas,2024-05-12,Horror,Titanic,116,Reino Unido,Smartphone,1,True
+jacobrobinson@example.net,Walter,Craig,2020-03-18,familiar,2024-05-03,Acción,The Dark Knight,67,México,Smart TV,2,True
+qstark@example.com,Carla,Sherman,2020-11-19,familiar,2024-05-16,Ciencia Ficción,Stranger Things,28,Japón,Tablet,5,True
+tammyellis@example.org,Alison,Clarke,2019-06-20,3 pantallas,2024-05-11,Documental,Stranger Things,50,España,Smartphone,4,False
+petersenjay@example.org,Melissa,Werner,2022-06-20,familiar,2024-05-16,Horror,Breaking Bad,42,Canadá,Smartphone,2,False
+albert00@example.net,Donna,Lynch,2023-12-17,familiar,2024-05-03,Horror,The Crown,96,Estados Unidos,Smart TV,1,False
+phillipporter@example.com,Molly,Rivers,2023-09-02,familiar,2024-05-02,Documental,Black Mirror,47,Francia,Smart TV,2,True
+tatealexis@example.net,Ryan,Wilson,2020-09-26,1 pantalla,2024-05-13,Acción,The Crown,145,Francia,Tablet,3,False
+jack27@example.net,Monica,Cruz,2020-02-18,1 pantalla,2024-05-11,Ciencia Ficción,The Mandalorian,83,Estados Unidos,Computadora,5,True
+rebeccabrown@example.net,Rickey,Burton,2019-07-14,familiar,No ha pagado,Acción,Breaking Bad,27,Japón,Smart TV,5,False
+barnesmartin@example.net,Deborah,Galvan,2024-01-03,familiar,No ha pagado,Acción,The Dark Knight,108,Alemania,Tablet,3,False
+teresa54@example.com,Christine,Klein,2024-04-06,2 pantallas,No ha pagado,Comedia,The Crown,84,Brasil,Smart TV,5,False
+elliskaren@example.org,Chelsea,Rivera,2021-12-09,familiar,2024-05-10,Horror,Stranger Things,11,Alemania,Smartphone,4,False
+catherinebarnes@example.org,Richard,West,2022-10-22,familiar,No ha pagado,Drama,The Dark Knight,7,Reino Unido,Computadora,1,True
+silvadaniel@example.org,Lisa,Schroeder,2023-02-10,2 pantallas,No ha pagado,Horror,Inception,84,Canadá,Smart TV,4,True
+cohenronald@example.com,Timothy,Parks,2023-04-21,familiar,No ha pagado,Drama,The Dark Knight,133,Alemania,Smartphone,3,True
+smithcathy@example.org,Cynthia,Hicks,2023-10-27,2 pantallas,No ha pagado,Drama,Breaking Bad,23,Estados Unidos,Smart TV,2,False
+ublackwell@example.net,Ricky,Bowers,2023-06-23,familiar,2024-05-02,Documental,Inception,121,Alemania,Computadora,2,False
+brandongutierrez@example.org,Philip,Riley,2019-08-12,familiar,2024-05-14,Acción,The Mandalorian,118,España,Smartphone,1,True
+richard80@example.net,David,Simon,2023-07-24,familiar,2024-05-15,Documental,The Matrix,13,Canadá,Smartphone,1,True
+dawnchapman@example.org,Dustin,Pugh,2023-07-13,2 pantallas,2024-05-10,Documental,The Matrix,77,Francia,Smartphone,2,False
+ocohen@example.org,Keith,King,2021-12-29,familiar,No ha pagado,Horror,The Godfather,22,Estados Unidos,Smartphone,4,False
+eric28@example.org,Kimberly,Walter,2024-01-26,2 pantallas,2024-05-02,Drama,Breaking Bad,59,España,Smartphone,5,False
+mary59@example.org,Martin,Yang,2019-10-22,familiar,No ha pagado,Acción,Black Mirror,138,Francia,Smart TV,5,False
+hruiz@example.org,Jamie,Hayes,2019-10-12,2 pantallas,No ha pagado,Ciencia Ficción,The Dark Knight,133,Reino Unido,Smart TV,2,True
+harnold@example.org,Samuel,Frank,2023-11-29,familiar,2024-05-03,Horror,Black Mirror,102,Canadá,Computadora,5,False
+eddie12@example.org,Reginald,Baxter,2019-07-19,2 pantallas,No ha pagado,Horror,Black Mirror,19,Argentina,Smart TV,4,True
+warrenannette@example.com,Deanna,Wilson,2024-01-26,familiar,2024-05-15,Ciencia Ficción,The Dark Knight,64,España,Tablet,4,True
+julie97@example.net,Thomas,Vargas,2021-02-06,1 pantalla,No ha pagado,Acción,The Godfather,137,Alemania,Computadora,5,True
+xharrington@example.com,Kimberly,Johnson,2023-05-04,2 pantallas,No ha pagado,Comedia,Black Mirror,39,España,Smart TV,4,False
+brodriguez@example.net,Adam,Andrews,2020-08-05,3 pantallas,No ha pagado,Drama,Black Mirror,73,Francia,Smart TV,1,False
+hudsonbernard@example.com,Andrew,Romero,2020-04-10,familiar,2024-05-05,Documental,Breaking Bad,127,Francia,Smartphone,2,False
+psmith@example.org,Timothy,Rocha,2022-08-25,2 pantallas,2024-05-09,Horror,The Mandalorian,45,Reino Unido,Smartphone,4,False
+sandrajuarez@example.com,Jessica,Cooper,2022-01-02,familiar,No ha pagado,Comedia,The Godfather,103,España,Smartphone,3,True
+rdominguez@example.net,Whitney,Martin,2021-10-17,3 pantallas,No ha pagado,Horror,Inception,97,Estados Unidos,Smart TV,3,True
+cherylstewart@example.com,Robin,Mann,2024-04-08,3 pantallas,2024-05-10,Drama,Breaking Bad,76,México,Tablet,1,True
+xmyers@example.com,Michelle,Fuller,2020-11-07,2 pantallas,No ha pagado,Ciencia Ficción,The Crown,41,Japón,Tablet,5,False
+sheri39@example.com,Jason,Estes,2022-07-01,1 pantalla,2024-05-03,Comedia,Breaking Bad,71,Alemania,Tablet,5,True
+andrea89@example.org,John,Anthony,2023-11-05,familiar,No ha pagado,Acción,Breaking Bad,29,España,Smartphone,4,False
+carolinejacobs@example.net,Sean,Harris,2023-05-22,3 pantallas,2024-05-10,Documental,Inception,27,España,Smartphone,3,True
+william56@example.com,Rebecca,Carter,2023-01-12,3 pantallas,No ha pagado,Comedia,Titanic,118,Argentina,Smart TV,3,True
+melanieellis@example.com,Bradley,Frye,2021-11-19,1 pantalla,2024-05-12,Drama,The Matrix,23,Francia,Smart TV,3,True
+hbrown@example.org,Robert,Edwards,2021-01-18,1 pantalla,2024-05-03,Ciencia Ficción,Titanic,126,Canadá,Tablet,4,True
+aparker@example.com,Joseph,Cortez,2021-04-02,3 pantallas,2024-05-17,Ciencia Ficción,Black Mirror,76,Argentina,Computadora,2,True
+hunterandres@example.net,Christopher,Miller,2022-04-16,3 pantallas,2024-05-06,Documental,Black Mirror,141,Reino Unido,Tablet,3,False
+santanajimmy@example.org,Jessica,Carlson,2023-04-27,2 pantallas,2024-05-15,Horror,Inception,54,Francia,Tablet,5,False
+xmckinney@example.net,Jessica,Davis,2024-02-02,2 pantallas,2024-05-16,Drama,The Mandalorian,30,Alemania,Computadora,2,False
+joshuamoore@example.org,Amanda,Lin,2022-04-30,3 pantallas,2024-05-04,Drama,Stranger Things,38,Estados Unidos,Computadora,4,True
+jkramer@example.net,David,Perez,2022-06-16,2 pantallas,2024-05-04,Documental,The Dark Knight,37,Canadá,Tablet,2,True
+ldickson@example.org,Derek,Bridges,2023-09-24,2 pantallas,No ha pagado,Comedia,Titanic,48,Argentina,Computadora,4,True
+wgregory@example.net,Andre,Medina,2020-09-23,2 pantallas,2024-05-16,Acción,The Crown,31,Estados Unidos,Computadora,3,False
+latoya30@example.org,Holly,Phelps,2023-07-01,1 pantalla,No ha pagado,Drama,Black Mirror,20,Reino Unido,Smartphone,4,True
+fmartinez@example.net,Joy,Lowe,2019-08-01,3 pantallas,No ha pagado,Ciencia Ficción,Titanic,26,México,Computadora,2,False
+stephenbeck@example.com,Lucas,Robinson,2020-07-13,1 pantalla,2024-05-12,Horror,Black Mirror,66,Reino Unido,Smart TV,4,True
+craighenry@example.com,Jessica,Leonard,2022-01-26,familiar,No ha pagado,Horror,Inception,117,Estados Unidos,Smartphone,1,False
+yjones@example.org,Tanya,Robinson,2024-02-24,2 pantallas,2024-05-16,Ciencia Ficción,Breaking Bad,48,Argentina,Smartphone,4,True
+qthomas@example.net,Cody,Phelps,2022-01-21,1 pantalla,2024-05-13,Drama,Black Mirror,70,México,Smart TV,3,False
+ymccann@example.net,Gregory,Jones,2019-08-19,1 pantalla,No ha pagado,Acción,Titanic,17,Alemania,Smart TV,4,False
+xdunn@example.net,Marissa,Price,2022-12-09,1 pantalla,No ha pagado,Drama,The Crown,116,Reino Unido,Computadora,4,False
+christina89@example.com,Ashley,Douglas,2020-06-04,3 pantallas,No ha pagado,Ciencia Ficción,The Matrix,131,España,Smartphone,4,False
+nicholsdavid@example.net,James,Fritz,2021-09-16,2 pantallas,2024-05-12,Documental,Stranger Things,76,Brasil,Smart TV,1,False
+georgerichard@example.net,Antonio,Hall,2020-06-09,3 pantallas,2024-05-04,Acción,The Dark Knight,10,México,Computadora,3,True
+palmercassandra@example.net,Travis,Lee,2022-04-05,3 pantallas,No ha pagado,Horror,The Matrix,140,México,Smart TV,3,True
+qhancock@example.net,Danielle,Reynolds,2023-05-19,familiar,No ha pagado,Documental,The Matrix,138,España,Smart TV,2,False
+belltina@example.org,Danielle,Morrison,2022-11-20,3 pantallas,No ha pagado,Horror,The Matrix,98,Japón,Smart TV,2,True
+aprillewis@example.org,Austin,Gonzalez,2020-02-03,3 pantallas,No ha pagado,Ciencia Ficción,The Mandalorian,9,Estados Unidos,Smartphone,4,True
+mary46@example.com,Shawn,Davis,2023-01-25,3 pantallas,No ha pagado,Horror,The Crown,123,Argentina,Tablet,3,True
+natalie19@example.org,Sharon,Merritt,2023-07-06,3 pantallas,2024-05-07,Drama,Stranger Things,87,Canadá,Smartphone,5,True
+robertsuarez@example.org,Christine,Davis,2021-10-19,1 pantalla,No ha pagado,Documental,Titanic,65,Francia,Smartphone,3,False
+jocelyn21@example.net,Douglas,Richard,2020-12-25,1 pantalla,No ha pagado,Drama,Titanic,18,Francia,Smartphone,2,False
+jamesphillips@example.net,Frances,Jones,2021-06-30,1 pantalla,2024-05-13,Horror,Breaking Bad,87,Japón,Tablet,1,True
+ojones@example.net,Nicholas,Johnson,2020-02-25,familiar,2024-05-04,Horror,The Dark Knight,78,España,Tablet,4,True
+nancyjordan@example.net,Carrie,Bell,2020-06-07,2 pantallas,2024-05-17,Documental,The Godfather,45,Argentina,Smart TV,3,False
+cgiles@example.com,Donald,Moon,2023-02-16,3 pantallas,2024-05-10,Documental,Breaking Bad,79,Estados Unidos,Tablet,5,False
+garciajohn@example.org,Felicia,Holland,2019-07-12,1 pantalla,No ha pagado,Documental,Stranger Things,39,Estados Unidos,Tablet,4,True
+owensjordan@example.net,Jennifer,Brock,2020-08-29,1 pantalla,No ha pagado,Comedia,The Dark Knight,137,Argentina,Tablet,4,True
+colleenshelton@example.net,Anna,Bennett,2024-02-13,familiar,2024-05-14,Horror,Inception,54,Alemania,Smart TV,4,False
+alexanderthomas@example.net,Ernest,Crawford,2022-10-01,1 pantalla,No ha pagado,Acción,The Dark Knight,73,Canadá,Tablet,2,True
+melaniecochran@example.net,Monica,Lin,2022-06-24,2 pantallas,No ha pagado,Ciencia Ficción,The Godfather,41,México,Tablet,5,True
+cindy94@example.net,Carlos,Ramirez,2021-06-23,familiar,2024-05-01,Horror,Inception,12,México,Smartphone,1,False
+vbrown@example.com,Charles,Carey,2022-07-25,familiar,No ha pagado,Drama,The Crown,90,Francia,Computadora,3,True
+denise31@example.net,Peter,Johnson,2022-12-24,1 pantalla,2024-05-05,Acción,The Crown,43,Francia,Computadora,4,True
+hubbardrobert@example.net,Alexandra,Chavez,2022-02-11,3 pantallas,No ha pagado,Drama,Stranger Things,11,México,Smartphone,1,False
+tbradshaw@example.org,David,Rivera,2021-08-08,1 pantalla,No ha pagado,Comedia,Black Mirror,95,Reino Unido,Tablet,4,False
+rebecca41@example.com,Cynthia,Young,2020-02-06,2 pantallas,No ha pagado,Ciencia Ficción,The Crown,96,Japón,Tablet,1,True
+xwilliams@example.com,Anthony,Church,2021-12-05,2 pantallas,2024-05-14,Ciencia Ficción,The Dark Knight,68,Estados Unidos,Smart TV,2,False
+ethansmith@example.org,Taylor,Cameron,2023-07-30,3 pantallas,No ha pagado,Ciencia Ficción,The Mandalorian,16,Japón,Smart TV,1,True
+zbaker@example.org,Jean,Gonzalez,2022-06-03,2 pantallas,2024-05-05,Ciencia Ficción,The Crown,17,Reino Unido,Computadora,3,False
+matthewerickson@example.org,Morgan,Benson,2022-08-31,3 pantallas,No ha pagado,Ciencia Ficción,The Matrix,95,Francia,Tablet,5,True
+markchan@example.org,Ryan,Morris,2024-03-09,1 pantalla,2024-05-03,Acción,Inception,49,Alemania,Computadora,3,True
+ralexander@example.com,Michael,Le,2021-07-07,3 pantallas,No ha pagado,Drama,Black Mirror,108,Alemania,Smartphone,5,False
+downsangela@example.com,Samuel,Diaz,2020-01-12,2 pantallas,No ha pagado,Acción,Titanic,12,Alemania,Tablet,1,True
+ppena@example.com,Alexis,Lara,2022-07-24,1 pantalla,No ha pagado,Documental,The Mandalorian,101,Francia,Computadora,2,True
+carolyn44@example.net,Colin,Brown,2019-12-31,2 pantallas,2024-05-12,Ciencia Ficción,Breaking Bad,56,España,Smartphone,4,True
+daviskaren@example.com,Matthew,Novak,2023-08-12,familiar,2024-05-05,Documental,The Mandalorian,42,Canadá,Smartphone,3,True
+amy76@example.org,Nicole,Duncan,2019-11-22,2 pantallas,No ha pagado,Acción,The Dark Knight,124,Francia,Smartphone,1,False
+amy84@example.org,Daniel,Hardy,2019-11-21,2 pantallas,No ha pagado,Acción,The Matrix,135,Francia,Smart TV,3,False
+samantharodriguez@example.org,Christina,Yang,2021-08-07,3 pantallas,2024-05-03,Documental,Black Mirror,86,Brasil,Smartphone,3,True
+scottdecker@example.org,Jonathan,Gallegos,2022-03-07,2 pantallas,No ha pagado,Horror,The Matrix,79,Argentina,Smart TV,4,True
+christopher63@example.com,Allen,Martinez,2022-12-29,1 pantalla,2024-05-04,Ciencia Ficción,Stranger Things,49,México,Smartphone,2,False
+jacob09@example.com,Deanna,Wagner,2024-03-25,familiar,2024-05-11,Drama,The Mandalorian,128,Francia,Smartphone,5,False
+wfuller@example.net,Justin,Palmer,2021-09-18,1 pantalla,2024-05-13,Acción,The Mandalorian,128,Brasil,Smartphone,4,False
+jacobwalker@example.com,Rebecca,Cooper,2020-12-29,familiar,No ha pagado,Ciencia Ficción,Black Mirror,142,Brasil,Smart TV,4,False
+emma01@example.com,Andrew,Wells,2023-01-09,1 pantalla,2024-05-14,Drama,The Crown,20,Brasil,Smart TV,4,False
+andrea07@example.com,Ian,Velasquez,2023-11-02,1 pantalla,2024-05-14,Ciencia Ficción,The Crown,26,Canadá,Tablet,3,False
+ashleyjones@example.org,Natalie,Richardson,2022-09-04,1 pantalla,2024-05-13,Drama,Breaking Bad,123,México,Smart TV,2,False
+naustin@example.org,Heather,Everett,2021-07-08,3 pantallas,2024-05-10,Acción,The Godfather,70,Francia,Tablet,1,True
+gonzalezkenneth@example.com,Jennifer,Cooper,2021-08-15,3 pantallas,2024-05-09,Documental,The Crown,53,Estados Unidos,Smart TV,2,False
+reeddawn@example.com,Justin,Haas,2023-04-14,2 pantallas,2024-05-12,Ciencia Ficción,Breaking Bad,101,Alemania,Computadora,1,False
+jbonilla@example.org,Danielle,Hall,2022-07-08,familiar,2024-05-11,Documental,Titanic,25,Reino Unido,Smart TV,1,True
+zhardin@example.net,Emily,Moore,2023-12-22,3 pantallas,2024-05-16,Drama,Breaking Bad,132,Reino Unido,Smart TV,2,True
+terry54@example.com,Katrina,Booker,2023-06-20,familiar,No ha pagado,Comedia,Stranger Things,71,México,Tablet,1,True
+benjamin77@example.com,Brenda,Barton,2019-09-15,familiar,2024-05-04,Comedia,Black Mirror,144,Brasil,Tablet,2,True
+eric71@example.org,Mark,Bennett,2020-04-05,1 pantalla,2024-05-11,Ciencia Ficción,The Crown,81,España,Computadora,4,False
+penavanessa@example.net,Jeremy,Mayo,2021-07-24,familiar,No ha pagado,Drama,The Godfather,11,Reino Unido,Smartphone,4,False
+icollins@example.org,Ryan,Roberts,2020-03-04,2 pantallas,No ha pagado,Comedia,Breaking Bad,75,Reino Unido,Smart TV,1,True
+wellsjessica@example.net,Eric,Kemp,2023-05-14,3 pantallas,2024-05-06,Horror,The Crown,79,Francia,Smartphone,4,True
+kathleen10@example.net,Antonio,Wilkins,2022-12-07,3 pantallas,2024-05-05,Acción,The Mandalorian,95,Francia,Smart TV,2,True
+amy36@example.org,Sarah,Gibson,2021-06-30,2 pantallas,2024-05-01,Horror,Titanic,107,Alemania,Computadora,1,False
+kyle00@example.net,Sara,Wood,2019-08-04,familiar,2024-05-15,Comedia,Stranger Things,76,Reino Unido,Tablet,2,False
+richardsandrew@example.net,Miranda,Harrison,2022-03-07,familiar,No ha pagado,Drama,Inception,6,Francia,Smart TV,4,True
+lawsondonna@example.org,Laura,Jones,2023-06-25,3 pantallas,No ha pagado,Comedia,The Crown,125,Estados Unidos,Tablet,4,True
+wellsmichele@example.net,Sarah,Reynolds,2023-01-05,2 pantallas,No ha pagado,Acción,Stranger Things,39,Japón,Tablet,4,False
+jessica68@example.org,Gary,Garcia,2019-10-12,familiar,2024-05-09,Drama,Black Mirror,10,México,Smartphone,3,True
+clintonmoody@example.com,Austin,Suarez,2023-11-10,2 pantallas,2024-05-09,Drama,Breaking Bad,116,Argentina,Smart TV,5,False
+pstout@example.net,Mario,Hale,2022-11-04,3 pantallas,No ha pagado,Horror,Inception,107,México,Smart TV,1,False
+jill58@example.com,Elijah,Sullivan,2019-06-25,3 pantallas,No ha pagado,Ciencia Ficción,The Mandalorian,36,Brasil,Tablet,5,True
+denisetaylor@example.org,Aaron,Scott,2023-07-09,3 pantallas,2024-05-13,Ciencia Ficción,The Matrix,127,Argentina,Smart TV,1,True
+lisa02@example.net,Elizabeth,Hill,2021-02-17,2 pantallas,2024-05-13,Drama,The Mandalorian,109,Reino Unido,Smart TV,2,True
+qthomas@example.com,James,Chen,2020-04-28,1 pantalla,2024-05-02,Acción,The Matrix,69,Alemania,Smartphone,1,True
+rhammond@example.com,Emily,Sanchez,2022-03-01,familiar,No ha pagado,Horror,The Mandalorian,74,Japón,Tablet,1,True
+wjohnson@example.com,Anthony,Rivera,2022-01-23,1 pantalla,No ha pagado,Drama,Black Mirror,19,Estados Unidos,Computadora,3,False
+brandon41@example.com,Kimberly,Moore,2022-08-14,familiar,No ha pagado,Ciencia Ficción,The Dark Knight,31,Argentina,Computadora,3,True
+dianadaugherty@example.net,Alan,Gregory,2020-04-09,3 pantallas,No ha pagado,Comedia,The Matrix,43,Reino Unido,Tablet,5,False
+jacksonjames@example.net,Mike,Sampson,2022-06-05,1 pantalla,No ha pagado,Acción,Stranger Things,105,Francia,Computadora,2,True
+scottanthony@example.net,Charles,Mitchell,2020-03-02,2 pantallas,2024-05-03,Horror,Breaking Bad,81,Canadá,Smart TV,2,True
+robinjohnson@example.net,Richard,Aguilar,2023-02-21,3 pantallas,2024-05-16,Comedia,Black Mirror,118,Brasil,Computadora,1,False
+vwatkins@example.com,Shawn,Payne,2021-03-15,familiar,2024-05-14,Documental,Breaking Bad,52,México,Smart TV,3,False
+obooth@example.net,Alvin,Cox,2022-10-12,2 pantallas,2024-05-15,Acción,Titanic,44,Alemania,Smartphone,1,False
+aduran@example.net,Linda,Goodman,2023-09-20,1 pantalla,No ha pagado,Horror,The Crown,111,Japón,Computadora,1,True
+ktodd@example.org,Jacob,Goodman,2022-10-09,familiar,2024-05-07,Horror,The Dark Knight,30,Estados Unidos,Smartphone,5,False
+johnnyhaynes@example.org,Sean,Yu,2023-12-02,2 pantallas,No ha pagado,Horror,The Crown,118,Argentina,Tablet,2,True
+coreymoore@example.org,Aaron,Bartlett,2021-05-14,2 pantallas,2024-05-09,Acción,Titanic,20,México,Smart TV,3,False
+hhenry@example.com,Deanna,Flores,2022-05-27,1 pantalla,2024-05-05,Documental,The Crown,94,México,Smartphone,2,True
+porterdebbie@example.net,Jennifer,Bennett,2020-05-22,1 pantalla,2024-05-05,Drama,Titanic,149,Estados Unidos,Computadora,5,True
+sanfordrobert@example.org,Diana,Russell,2024-02-20,1 pantalla,2024-05-05,Horror,The Mandalorian,59,Japón,Tablet,2,True
+wvaughan@example.net,Lisa,Johnson,2021-09-25,familiar,2024-05-08,Horror,Breaking Bad,81,Estados Unidos,Smartphone,1,True
+zlane@example.net,Julie,Warner,2023-02-24,familiar,No ha pagado,Ciencia Ficción,Inception,60,Estados Unidos,Computadora,4,True
+gjones@example.org,Catherine,Clark,2023-04-27,3 pantallas,No ha pagado,Drama,Stranger Things,132,Reino Unido,Tablet,1,False
+cstewart@example.net,Shawn,Anderson,2024-04-15,3 pantallas,No ha pagado,Ciencia Ficción,The Dark Knight,51,Brasil,Tablet,5,False
+travis83@example.org,Tracy,Sosa,2021-03-07,3 pantallas,2024-05-09,Horror,The Matrix,71,Brasil,Tablet,2,True
+parkerdavid@example.org,Phillip,Nichols,2020-02-07,3 pantallas,No ha pagado,Drama,The Matrix,56,Argentina,Computadora,1,False
+burnschristian@example.net,Sarah,Lee,2019-08-18,familiar,No ha pagado,Ciencia Ficción,Stranger Things,104,Reino Unido,Smartphone,5,True
+christopher52@example.com,Courtney,Hart,2023-12-10,2 pantallas,2024-05-01,Documental,Inception,19,Argentina,Smartphone,2,True
+torreskyle@example.net,Dakota,Garcia,2021-03-15,3 pantallas,2024-05-14,Ciencia Ficción,Breaking Bad,59,Reino Unido,Smartphone,2,True
+fchen@example.com,Diane,Alvarez,2023-08-26,2 pantallas,No ha pagado,Horror,The Godfather,34,Estados Unidos,Smart TV,4,False
+jeaton@example.com,Sherry,Reynolds,2023-06-05,1 pantalla,No ha pagado,Comedia,Inception,18,Reino Unido,Smart TV,1,False
+josephpacheco@example.com,Kathleen,Fuller,2020-12-26,1 pantalla,No ha pagado,Drama,The Godfather,143,Japón,Computadora,5,True
+john72@example.net,Kelly,Cochran,2021-01-27,familiar,No ha pagado,Drama,The Dark Knight,132,Estados Unidos,Smart TV,1,True
+ldaniel@example.org,Jeffery,Moore,2022-09-06,1 pantalla,2024-05-03,Acción,Stranger Things,88,Francia,Smartphone,3,True
+rodriguezmarc@example.com,Savannah,Bates,2020-12-03,familiar,No ha pagado,Horror,The Dark Knight,98,Francia,Smart TV,3,False
+dominiqueturner@example.org,Melissa,Shields,2020-03-23,3 pantallas,2024-05-10,Comedia,Titanic,49,Brasil,Computadora,3,True
+peggy10@example.com,Thomas,Allen,2023-02-05,1 pantalla,2024-05-07,Horror,The Mandalorian,39,España,Smartphone,2,True
+brianrodriguez@example.net,Todd,Taylor,2019-12-22,2 pantallas,No ha pagado,Ciencia Ficción,Stranger Things,77,España,Smartphone,1,False
+christopher91@example.org,Richard,Mcclain,2023-08-24,2 pantallas,2024-05-16,Ciencia Ficción,The Crown,53,Alemania,Smartphone,2,True
+amandapark@example.com,Megan,Powell,2022-07-05,2 pantallas,No ha pagado,Acción,Breaking Bad,63,Reino Unido,Tablet,3,True
+sabrinabryan@example.org,Deborah,Powell,2020-06-07,1 pantalla,2024-05-09,Documental,The Matrix,125,Francia,Smartphone,2,True
+qbooth@example.org,Rachel,Howard,2021-01-13,2 pantallas,2024-05-08,Comedia,The Dark Knight,126,México,Tablet,4,True
+taylorgregory@example.org,Kristina,Turner,2024-01-10,familiar,No ha pagado,Comedia,The Matrix,14,Francia,Smart TV,2,True
+xhamilton@example.org,Cameron,Moon,2019-12-25,2 pantallas,2024-05-03,Comedia,Inception,103,Alemania,Tablet,5,True
+ldalton@example.net,Joel,Kelley,2023-08-29,1 pantalla,No ha pagado,Comedia,Black Mirror,51,Reino Unido,Tablet,5,True
+kim09@example.net,Rachel,Odom,2022-06-26,2 pantallas,No ha pagado,Horror,Black Mirror,63,Canadá,Computadora,3,False
+collinsgordon@example.org,Henry,Gonzalez,2021-08-26,3 pantallas,No ha pagado,Documental,The Matrix,77,Alemania,Computadora,1,True
+uberg@example.net,Toni,Hoffman,2023-05-11,2 pantallas,2024-05-04,Documental,The Mandalorian,120,Brasil,Smart TV,5,True
+hestertimothy@example.org,Mark,Snyder,2019-05-20,2 pantallas,2024-05-10,Acción,The Mandalorian,24,México,Smartphone,5,True
+brownrebecca@example.net,Andrew,Taylor,2020-05-06,3 pantallas,No ha pagado,Ciencia Ficción,Titanic,19,Estados Unidos,Computadora,4,True
+jessicajacobson@example.com,Bryan,Williams,2024-02-26,2 pantallas,No ha pagado,Horror,Stranger Things,85,Reino Unido,Computadora,5,True
+paula36@example.net,Valerie,Lynn,2019-07-29,familiar,2024-05-13,Comedia,The Matrix,123,Estados Unidos,Smart TV,5,False
+perrykimberly@example.org,Ashley,Blackwell,2022-04-09,3 pantallas,2024-05-03,Comedia,Black Mirror,93,Japón,Smart TV,3,False
+nicole75@example.net,Rhonda,French,2021-06-11,3 pantallas,2024-05-06,Horror,The Crown,126,España,Tablet,5,False
+vmoody@example.com,Joseph,Berg,2022-09-24,3 pantallas,2024-05-16,Horror,Black Mirror,40,Reino Unido,Tablet,1,True
+lewisregina@example.com,Victoria,Campos,2023-02-21,3 pantallas,No ha pagado,Ciencia Ficción,The Mandalorian,144,Brasil,Smartphone,1,True
+samanthawhite@example.org,Richard,Stevenson,2024-02-18,familiar,No ha pagado,Drama,The Godfather,75,Argentina,Smart TV,2,True
+christianhuynh@example.net,George,Everett,2023-08-01,familiar,No ha pagado,Drama,Stranger Things,148,Japón,Smart TV,2,False
+pmartinez@example.com,Frank,Bond,2024-03-21,2 pantallas,2024-05-02,Documental,The Godfather,84,México,Smartphone,3,False
+clarkejennifer@example.net,Sheila,Black,2020-01-23,2 pantallas,No ha pagado,Horror,The Crown,47,México,Computadora,2,False
+cory67@example.org,Anna,Lucas,2021-01-20,1 pantalla,2024-05-16,Documental,Breaking Bad,114,Canadá,Smartphone,4,False
+gmorrison@example.org,James,Walker,2021-06-20,familiar,No ha pagado,Documental,Inception,139,Canadá,Tablet,4,True
+shelbyanderson@example.net,Victoria,Curry,2020-09-14,1 pantalla,2024-05-14,Documental,The Mandalorian,121,España,Computadora,2,True
+amy16@example.org,Mark,Griffin,2019-09-08,2 pantallas,2024-05-06,Documental,The Matrix,94,Brasil,Tablet,4,True
+vlawrence@example.org,Nicole,Lang,2021-10-14,3 pantallas,No ha pagado,Acción,Inception,108,Francia,Smart TV,4,False
+coopergary@example.org,Trevor,Sanchez,2022-03-06,2 pantallas,No ha pagado,Documental,The Dark Knight,15,Canadá,Smartphone,5,True
+melissanavarro@example.net,Sherry,Smith,2021-01-24,1 pantalla,No ha pagado,Documental,Titanic,138,México,Computadora,5,False
+moodylori@example.com,Julie,Kirk,2021-09-19,familiar,No ha pagado,Drama,The Crown,138,Reino Unido,Tablet,1,True
+ishepherd@example.com,Anthony,Trevino,2021-01-09,1 pantalla,No ha pagado,Drama,Titanic,5,Argentina,Smartphone,2,False
+usmith@example.org,Catherine,Burns,2021-06-12,2 pantallas,No ha pagado,Horror,The Godfather,38,Estados Unidos,Smartphone,3,False
+christianhancock@example.net,Anthony,York,2023-09-11,1 pantalla,2024-05-15,Comedia,The Crown,23,Canadá,Smart TV,3,False
+rebeccaunderwood@example.com,Sandra,May,2020-01-14,2 pantallas,No ha pagado,Documental,The Crown,91,Argentina,Computadora,5,True
+lisadavis@example.org,Sarah,Ward,2020-05-21,1 pantalla,No ha pagado,Acción,Breaking Bad,132,México,Computadora,1,True
+anthonyvincent@example.com,Veronica,Robbins,2020-09-11,3 pantallas,2024-05-11,Ciencia Ficción,The Dark Knight,131,Argentina,Smart TV,5,False
+collinssean@example.org,Scott,Stone,2023-10-04,1 pantalla,2024-05-13,Horror,The Dark Knight,113,Argentina,Computadora,3,True
+zritter@example.com,Thomas,Boyd,2020-06-12,3 pantallas,No ha pagado,Acción,The Godfather,21,Francia,Tablet,4,True
+gregorymoran@example.org,Tara,Bailey,2023-06-03,1 pantalla,No ha pagado,Drama,Stranger Things,31,Brasil,Smart TV,1,True
+zmoore@example.com,Stacey,Gomez,2022-12-06,familiar,2024-05-11,Ciencia Ficción,Black Mirror,98,México,Smartphone,1,True
+morrowsara@example.com,Gary,Sullivan,2019-10-08,familiar,No ha pagado,Acción,The Dark Knight,113,México,Computadora,4,True
+robinsonjulia@example.net,Erica,Wright,2022-12-16,2 pantallas,2024-05-14,Comedia,Titanic,127,México,Smart TV,2,True
+katiechapman@example.org,Kendra,Cochran,2023-09-30,1 pantalla,2024-05-08,Documental,Inception,77,Brasil,Tablet,1,True
+pjones@example.org,Jorge,Herrera,2022-05-07,familiar,2024-05-03,Acción,Black Mirror,140,Argentina,Smartphone,2,False
+bailey91@example.org,Karen,Gonzalez,2021-03-28,1 pantalla,2024-05-10,Documental,Inception,16,Argentina,Smart TV,1,True
+diana83@example.net,Krystal,Stephenson,2020-11-23,1 pantalla,2024-05-10,Documental,The Crown,133,España,Smartphone,2,True
+margaret51@example.com,Michael,Murphy,2022-03-13,1 pantalla,No ha pagado,Acción,The Godfather,86,Argentina,Smart TV,4,True
+osmith@example.com,Michael,Cummings,2022-03-24,familiar,2024-05-05,Documental,The Godfather,115,Francia,Smart TV,3,False
+pmedina@example.org,Adam,Vaughn,2022-09-20,2 pantallas,2024-05-14,Ciencia Ficción,The Mandalorian,129,México,Smartphone,1,True
+jessicacurtis@example.org,David,Reyes,2019-07-11,1 pantalla,No ha pagado,Acción,The Godfather,116,Estados Unidos,Smartphone,5,False
+george60@example.net,Blake,Sullivan,2020-12-20,1 pantalla,2024-05-08,Ciencia Ficción,The Godfather,110,Alemania,Smart TV,3,False
+caitlin06@example.com,James,Palmer,2021-12-10,3 pantallas,2024-05-11,Ciencia Ficción,Black Mirror,81,España,Computadora,5,True
+kluna@example.org,Mary,Gonzalez,2020-06-08,3 pantallas,No ha pagado,Documental,The Mandalorian,81,Reino Unido,Computadora,5,True
+mark42@example.org,James,Carter,2022-04-05,familiar,No ha pagado,Acción,The Mandalorian,14,Canadá,Smartphone,2,False
+hsalinas@example.net,Robert,Brown,2024-04-01,2 pantallas,No ha pagado,Documental,The Dark Knight,65,Reino Unido,Tablet,1,True
+afloyd@example.com,Meredith,Jimenez,2020-01-08,1 pantalla,No ha pagado,Drama,Black Mirror,123,Reino Unido,Computadora,1,False
+samantha98@example.org,Crystal,Stephenson,2020-06-15,familiar,2024-05-07,Drama,The Matrix,20,Estados Unidos,Smartphone,2,False
+hernandezfrederick@example.org,Jeffrey,Daniel,2020-12-21,familiar,2024-05-03,Ciencia Ficción,Inception,38,Alemania,Tablet,1,False
+amyscott@example.com,Tabitha,Forbes,2020-01-24,2 pantallas,No ha pagado,Ciencia Ficción,The Crown,15,Canadá,Tablet,5,False
+kimberly03@example.net,Zachary,Espinoza,2020-09-15,1 pantalla,No ha pagado,Documental,The Godfather,124,Canadá,Tablet,4,True
+travis40@example.com,Matthew,Garcia,2022-11-11,2 pantallas,2024-05-07,Acción,Breaking Bad,59,Argentina,Smartphone,2,True
+tiffanygonzalez@example.net,James,Peterson,2021-04-08,3 pantallas,2024-05-10,Drama,The Godfather,131,Estados Unidos,Tablet,4,True
+rebecca08@example.net,John,Jackson,2019-08-05,1 pantalla,No ha pagado,Comedia,The Mandalorian,59,México,Smart TV,1,False
+williamdoyle@example.org,Ryan,Rodriguez,2021-11-16,familiar,No ha pagado,Ciencia Ficción,Black Mirror,91,Alemania,Tablet,1,False
+dylanmartinez@example.net,Robert,Tran,2023-08-12,familiar,No ha pagado,Ciencia Ficción,The Mandalorian,52,Argentina,Smart TV,1,True
+plam@example.net,Jocelyn,Phillips,2022-04-12,familiar,No ha pagado,Acción,The Mandalorian,126,Alemania,Smartphone,1,True
+michaeladams@example.com,John,Woods,2024-01-08,1 pantalla,No ha pagado,Acción,Titanic,121,México,Computadora,2,False
+stevenburton@example.net,Wendy,Conner,2020-01-09,3 pantallas,2024-05-16,Acción,The Godfather,94,Estados Unidos,Tablet,2,False
+lorraine47@example.org,Steven,Tate,2020-10-16,3 pantallas,No ha pagado,Horror,The Crown,135,Francia,Smart TV,5,False
+ewatkins@example.org,Robert,Marsh,2023-09-21,1 pantalla,No ha pagado,Comedia,The Dark Knight,123,España,Smart TV,1,True
+lmcmahon@example.com,Jesse,Garrett,2024-04-12,1 pantalla,2024-05-16,Horror,The Mandalorian,30,México,Tablet,1,True
+omills@example.org,Ashlee,Powell,2020-03-10,1 pantalla,No ha pagado,Drama,The Mandalorian,57,España,Smartphone,4,False
+kennethwashington@example.org,Denise,Herring,2021-07-15,1 pantalla,2024-05-03,Acción,The Dark Knight,10,Argentina,Tablet,1,False
+howard05@example.org,Carly,Beard,2019-11-21,1 pantalla,No ha pagado,Documental,The Crown,91,Japón,Smartphone,3,False
+navarropatricia@example.org,Leonard,Snow,2023-01-22,2 pantallas,2024-05-09,Drama,Inception,7,Japón,Smartphone,2,True
+nmitchell@example.org,Christina,Nielsen,2020-06-02,1 pantalla,No ha pagado,Documental,The Matrix,148,Japón,Smart TV,2,False
+jeffrey95@example.com,Cynthia,Powell,2022-12-28,familiar,No ha pagado,Horror,Inception,87,Francia,Tablet,3,True
+clloyd@example.net,Julie,Barrera,2019-11-10,1 pantalla,2024-05-16,Drama,The Crown,131,Reino Unido,Computadora,1,False
+scott55@example.net,Juan,Farmer,2020-08-03,2 pantallas,2024-05-06,Documental,The Dark Knight,112,Reino Unido,Computadora,4,False
+zharris@example.net,Michael,Howard,2022-04-13,3 pantallas,No ha pagado,Comedia,Stranger Things,68,Canadá,Tablet,3,False
+gardnernicole@example.com,Kyle,Leon,2019-07-01,2 pantallas,2024-05-03,Comedia,Inception,25,Alemania,Smart TV,5,True
+tamara53@example.net,Mary,Williams,2019-10-16,3 pantallas,2024-05-04,Comedia,Inception,26,Argentina,Smartphone,4,False
+andrew74@example.net,Ryan,Newman,2024-02-01,familiar,2024-05-04,Horror,Breaking Bad,101,Japón,Computadora,2,False
+michellejackson@example.net,Jessica,Chavez,2023-12-06,2 pantallas,No ha pagado,Documental,The Crown,22,Francia,Smartphone,3,False
+michellecrawford@example.com,Christopher,Saunders,2022-03-16,familiar,2024-05-07,Documental,The Matrix,103,Estados Unidos,Smartphone,5,False
+narcher@example.net,Diamond,Edwards,2023-07-08,familiar,No ha pagado,Acción,Inception,150,Canadá,Smartphone,5,True
+sydneygarcia@example.org,Kimberly,Sanchez,2019-08-01,1 pantalla,No ha pagado,Acción,Titanic,105,España,Smartphone,3,False
+cchavez@example.com,Anita,Lawrence,2019-06-12,2 pantallas,No ha pagado,Comedia,Titanic,70,México,Tablet,4,True
+jacqueline32@example.net,Christina,Fields,2020-11-15,familiar,No ha pagado,Documental,Inception,146,Estados Unidos,Smartphone,4,False
+ellisashley@example.com,Kelly,Morales,2020-09-11,1 pantalla,2024-05-12,Ciencia Ficción,Black Mirror,18,Alemania,Smartphone,4,False
+sydney84@example.com,Joann,Nicholson,2021-08-11,familiar,No ha pagado,Comedia,The Dark Knight,76,Francia,Tablet,1,False
+hailey65@example.net,Sabrina,Velasquez,2019-05-30,2 pantallas,2024-05-02,Documental,The Dark Knight,124,Japón,Smartphone,4,False
+grantashley@example.net,Tammy,Espinoza,2019-05-27,2 pantallas,2024-05-16,Ciencia Ficción,Breaking Bad,148,Canadá,Smartphone,4,True
+blackrebecca@example.com,Andrew,Goodman,2023-01-30,1 pantalla,2024-05-05,Drama,Titanic,147,Alemania,Computadora,2,False
+james69@example.com,Renee,Turner,2023-12-01,3 pantallas,No ha pagado,Drama,The Dark Knight,79,Reino Unido,Smart TV,2,False
+daniel12@example.com,Kurt,Smith,2021-08-28,1 pantalla,2024-05-14,Ciencia Ficción,The Crown,107,Japón,Smartphone,5,False
+jennaarnold@example.com,Joshua,Rangel,2021-09-16,3 pantallas,No ha pagado,Documental,The Dark Knight,52,Francia,Smart TV,3,False
+angelarowe@example.com,Thomas,Miller,2024-03-17,familiar,2024-05-06,Comedia,The Dark Knight,136,Japón,Tablet,4,False
+teresaware@example.org,Brian,Santiago,2022-01-29,2 pantallas,2024-05-06,Documental,The Mandalorian,77,Brasil,Tablet,2,True
+charles50@example.com,Sandy,Chang,2023-07-14,2 pantallas,2024-05-03,Documental,The Matrix,121,Japón,Smartphone,2,True
+travis72@example.org,Rachel,Phillips,2021-02-11,2 pantallas,No ha pagado,Horror,Breaking Bad,136,Japón,Tablet,1,True
+jameslaura@example.net,Jesus,Sawyer,2023-09-13,familiar,No ha pagado,Drama,The Matrix,103,Alemania,Tablet,2,True
+stevensjohn@example.net,Mary,Nguyen,2020-04-03,2 pantallas,2024-05-02,Drama,Inception,95,Japón,Smartphone,1,True
+bakerderrick@example.org,Katrina,Ross,2020-08-30,1 pantalla,No ha pagado,Horror,The Dark Knight,97,Estados Unidos,Tablet,3,True
+laurie57@example.net,Alicia,Hampton,2021-01-25,2 pantallas,2024-05-06,Drama,Titanic,50,Reino Unido,Smart TV,2,False
+bmills@example.net,Brandon,Meyer,2023-06-20,2 pantallas,2024-05-06,Drama,Titanic,111,Japón,Smartphone,3,True
+hoffmananthony@example.net,Alice,Johns,2022-01-26,familiar,2024-05-06,Drama,Stranger Things,58,España,Computadora,4,False
+bfernandez@example.org,Lauren,Allen,2021-08-11,3 pantallas,No ha pagado,Ciencia Ficción,Breaking Bad,8,Francia,Tablet,2,False
+melinda54@example.org,George,Ward,2021-05-01,2 pantallas,No ha pagado,Documental,The Mandalorian,130,Japón,Smartphone,2,True
+taylorterri@example.com,Brian,Ware,2023-11-07,familiar,No ha pagado,Drama,The Godfather,132,Francia,Tablet,1,True
+sophiamoore@example.org,Frederick,Williams,2020-02-18,familiar,No ha pagado,Horror,Breaking Bad,20,Canadá,Tablet,2,True
+keith90@example.org,Jacob,Price,2022-04-26,3 pantallas,No ha pagado,Comedia,Stranger Things,116,Argentina,Smartphone,2,True
+matthew95@example.com,Alejandro,Rowe,2019-09-13,familiar,No ha pagado,Horror,Black Mirror,121,Francia,Computadora,2,True
+lauren38@example.org,Jacob,Valentine,2022-05-18,1 pantalla,No ha pagado,Ciencia Ficción,The Dark Knight,71,Argentina,Smartphone,5,False
+floresbrandi@example.net,Sheila,Wagner,2022-06-24,1 pantalla,No ha pagado,Documental,The Crown,142,España,Computadora,5,True
+lbaker@example.com,Christina,Howard,2021-06-20,2 pantallas,No ha pagado,Comedia,The Matrix,125,Alemania,Smartphone,1,False
+matthewtownsend@example.com,Connor,Hernandez,2023-05-12,3 pantallas,2024-05-05,Ciencia Ficción,Inception,96,Estados Unidos,Smart TV,4,True
+mrasmussen@example.org,Elaine,Weiss,2022-04-15,1 pantalla,No ha pagado,Comedia,The Godfather,129,España,Smart TV,2,False
+kathydiaz@example.org,Victoria,Simmons,2021-07-31,3 pantallas,No ha pagado,Documental,The Matrix,145,Canadá,Smartphone,5,True
+randallwendy@example.com,Tanya,Bradley,2022-07-02,3 pantallas,No ha pagado,Horror,Black Mirror,94,Japón,Computadora,1,False
+richardharding@example.com,James,Smith,2022-05-18,1 pantalla,No ha pagado,Horror,The Matrix,143,Estados Unidos,Tablet,4,True
+collinsgary@example.com,Tonya,Noble,2019-12-26,familiar,2024-05-11,Horror,Breaking Bad,37,Canadá,Smart TV,3,True
+jenniferscott@example.com,Erik,Parrish,2023-04-27,familiar,2024-05-06,Ciencia Ficción,Breaking Bad,118,Argentina,Tablet,2,True
+larrybass@example.com,Michelle,Romero,2022-11-09,3 pantallas,2024-05-05,Ciencia Ficción,Breaking Bad,7,Argentina,Tablet,2,True
+ochung@example.org,Nathaniel,Roy,2020-06-24,1 pantalla,2024-05-14,Comedia,Black Mirror,108,Japón,Smartphone,5,True
+kellivalenzuela@example.com,Paul,Dalton,2022-03-14,2 pantallas,No ha pagado,Ciencia Ficción,The Matrix,81,Canadá,Computadora,3,True
+rward@example.com,Dorothy,Cisneros,2022-06-10,3 pantallas,2024-05-14,Drama,Black Mirror,22,España,Computadora,2,True
+zcooper@example.org,Anthony,Greene,2020-10-29,3 pantallas,2024-05-09,Drama,The Crown,131,Japón,Computadora,1,False
+lauramurray@example.org,Randy,Davies,2022-11-03,2 pantallas,2024-05-09,Drama,Stranger Things,83,Japón,Computadora,4,True
+sharris@example.net,Shelly,Johnson,2023-09-12,3 pantallas,2024-05-02,Documental,Titanic,97,Francia,Smartphone,2,False
+kylemartin@example.org,Joseph,Hernandez,2023-09-29,1 pantalla,No ha pagado,Horror,The Crown,54,Estados Unidos,Smartphone,1,False
+martinezsarah@example.net,Brittany,Moore,2020-10-22,3 pantallas,2024-05-04,Drama,The Dark Knight,63,Reino Unido,Smart TV,3,True
+daniel45@example.net,Joshua,Duffy,2022-05-10,1 pantalla,No ha pagado,Horror,Stranger Things,25,Brasil,Tablet,4,False
+yusharon@example.org,Alicia,Green,2019-07-11,2 pantallas,2024-05-13,Drama,Black Mirror,130,Reino Unido,Computadora,1,False
+davidhenderson@example.net,Catherine,Norton,2019-10-17,familiar,No ha pagado,Comedia,The Matrix,121,Canadá,Tablet,5,True
+pamela20@example.org,Valerie,Wright,2020-01-03,2 pantallas,No ha pagado,Comedia,The Godfather,147,Brasil,Smart TV,4,True
+lisa89@example.net,Madison,Cochran,2021-05-16,1 pantalla,No ha pagado,Documental,Black Mirror,53,Estados Unidos,Smartphone,2,True
+williamsonjames@example.com,Sherry,Reeves,2022-08-03,1 pantalla,2024-05-07,Documental,Inception,91,Francia,Computadora,1,False
+walshjared@example.com,Blake,Lam,2022-03-24,2 pantallas,2024-05-11,Comedia,Titanic,87,Reino Unido,Tablet,1,False
+villakari@example.org,Robert,Morgan,2020-09-28,familiar,2024-05-16,Comedia,Inception,44,Argentina,Tablet,4,False
+ngraham@example.org,Jill,Jackson,2024-03-06,3 pantallas,No ha pagado,Horror,The Godfather,108,Estados Unidos,Computadora,3,False
+susangarcia@example.net,Juan,Espinoza,2021-03-11,1 pantalla,No ha pagado,Horror,The Matrix,17,Argentina,Smart TV,2,True
+william79@example.org,Nicole,Shields,2022-03-17,1 pantalla,No ha pagado,Comedia,Black Mirror,123,Canadá,Computadora,2,False
+ryan10@example.org,Ashlee,Guerrero,2021-01-05,3 pantallas,No ha pagado,Documental,Stranger Things,42,Reino Unido,Smartphone,1,False
+allenkristin@example.net,Danny,Campbell,2019-09-13,3 pantallas,2024-05-07,Documental,Breaking Bad,17,España,Computadora,2,True
+johnwilliams@example.net,Edward,Nguyen,2019-08-25,2 pantallas,2024-05-09,Acción,Inception,27,Estados Unidos,Smart TV,2,True
+jeffcabrera@example.com,Andrea,Coleman,2020-04-01,familiar,2024-05-06,Acción,The Mandalorian,22,Argentina,Computadora,3,False
+egreen@example.org,Shane,Harris,2023-05-27,1 pantalla,No ha pagado,Documental,The Dark Knight,28,Alemania,Computadora,3,True
+qbell@example.com,Elizabeth,Morrison,2020-03-18,3 pantallas,2024-05-13,Horror,Inception,18,México,Smart TV,5,False
+charlottereed@example.net,Amber,Rodriguez,2020-10-04,2 pantallas,No ha pagado,Documental,Stranger Things,98,Brasil,Computadora,4,True
+randallroberts@example.com,Kevin,Booth,2019-07-01,3 pantallas,No ha pagado,Drama,The Matrix,37,Francia,Computadora,3,False
+armstrongcolleen@example.org,Lisa,Simmons,2023-02-14,1 pantalla,No ha pagado,Comedia,Breaking Bad,80,Japón,Smart TV,1,False
+shawn08@example.com,Brian,Moses,2019-11-27,3 pantallas,No ha pagado,Horror,The Matrix,125,Brasil,Smart TV,5,False
+bradley51@example.net,Joshua,Doyle,2022-10-29,3 pantallas,No ha pagado,Horror,The Crown,145,Canadá,Tablet,2,False
+flowerskaren@example.org,Monica,Mcdowell,2020-06-08,2 pantallas,2024-05-10,Comedia,The Matrix,112,México,Smart TV,3,True
+davidmoore@example.org,Maria,Garcia,2020-07-13,2 pantallas,No ha pagado,Ciencia Ficción,Inception,55,Canadá,Smartphone,3,False
+hharris@example.net,Samantha,Sloan,2021-10-25,1 pantalla,2024-05-02,Drama,Inception,36,Francia,Computadora,4,True
+ojones@example.org,Jeremy,Long,2020-02-25,2 pantallas,2024-05-15,Documental,Titanic,28,Reino Unido,Smartphone,5,False
+andreatran@example.net,Travis,Scott,2022-09-12,familiar,No ha pagado,Drama,Stranger Things,59,Estados Unidos,Computadora,5,False
+brandonparker@example.net,Eric,Snyder,2021-10-10,1 pantalla,2024-05-08,Comedia,The Matrix,149,Reino Unido,Smartphone,1,False
+meganevans@example.net,Julia,Fisher,2021-11-19,3 pantallas,2024-05-06,Horror,Breaking Bad,42,Alemania,Smart TV,4,True
+michellehamilton@example.com,Marcia,Sharp,2023-04-26,familiar,No ha pagado,Documental,Stranger Things,31,Estados Unidos,Computadora,3,False
+meganturner@example.org,Marco,Flores,2019-11-19,familiar,No ha pagado,Horror,The Dark Knight,42,Japón,Computadora,3,False
+jason73@example.com,Ricky,Ferguson,2021-12-28,2 pantallas,2024-05-07,Comedia,Inception,39,Brasil,Smart TV,5,False
+ggonzales@example.org,Michelle,Richards,2022-07-28,3 pantallas,No ha pagado,Drama,Inception,45,Francia,Smart TV,5,False
+alan63@example.org,Lindsey,Cain,2022-05-25,3 pantallas,No ha pagado,Documental,Stranger Things,82,España,Computadora,5,True
+patty60@example.com,Kristin,Perry,2023-12-31,2 pantallas,2024-05-12,Ciencia Ficción,Breaking Bad,101,Francia,Smartphone,3,True
+johnsonsusan@example.net,Ashley,Smith,2020-07-23,3 pantallas,2024-05-16,Ciencia Ficción,Breaking Bad,23,México,Smart TV,2,True
+sarah73@example.net,Jessica,Coleman,2019-10-01,1 pantalla,2024-05-03,Ciencia Ficción,The Matrix,99,Japón,Smartphone,1,False
+ramoskevin@example.net,James,Taylor,2019-06-24,1 pantalla,2024-05-08,Documental,Breaking Bad,23,Canadá,Smartphone,2,True
+benjaminvaldez@example.org,Christina,Townsend,2021-12-26,1 pantalla,2024-05-07,Ciencia Ficción,Stranger Things,46,Argentina,Tablet,4,False
+ole@example.com,Tiffany,Edwards,2024-04-24,familiar,2024-05-02,Acción,The Matrix,71,España,Smart TV,4,False
+marymccoy@example.net,Michele,Benjamin,2021-12-15,1 pantalla,No ha pagado,Acción,Titanic,17,Reino Unido,Computadora,3,True
+omorris@example.net,Alexandra,Fuller,2022-05-13,1 pantalla,2024-05-06,Documental,Black Mirror,45,Estados Unidos,Tablet,1,False
+eatonsusan@example.net,Emily,Ramirez,2022-04-21,1 pantalla,2024-05-14,Comedia,The Mandalorian,140,Francia,Computadora,5,False
+bgomez@example.org,Daniel,Frank,2019-07-24,familiar,2024-05-09,Horror,Stranger Things,136,Francia,Smartphone,2,True
+kevinclements@example.net,Melissa,Jordan,2019-08-19,1 pantalla,2024-05-04,Comedia,Black Mirror,88,Canadá,Tablet,5,True
+lisa79@example.com,Ashley,Trevino,2020-10-08,familiar,2024-05-06,Drama,Black Mirror,102,Alemania,Smart TV,4,False
+uherrera@example.org,Nicholas,Anderson,2024-04-24,1 pantalla,2024-05-03,Comedia,Black Mirror,131,Reino Unido,Smartphone,1,True
+courtney48@example.net,Robert,Ryan,2019-06-06,3 pantallas,No ha pagado,Comedia,Titanic,82,España,Tablet,3,False
+hstanley@example.net,Linda,Huynh,2023-07-05,1 pantalla,2024-05-08,Ciencia Ficción,Titanic,66,Brasil,Smartphone,2,True
+jhuff@example.com,Kristy,Burgess,2023-01-19,1 pantalla,No ha pagado,Drama,Inception,69,Argentina,Smartphone,3,True
+cooperjoshua@example.org,Ricky,Hoffman,2019-10-17,familiar,No ha pagado,Drama,Inception,136,Canadá,Smart TV,3,True
+robin93@example.net,Cynthia,Ramos,2022-09-15,familiar,No ha pagado,Documental,Breaking Bad,131,Estados Unidos,Computadora,5,False
+seancummings@example.net,Elizabeth,Boyle,2021-06-02,3 pantallas,No ha pagado,Horror,The Mandalorian,16,Argentina,Smartphone,4,False
+sarapeters@example.com,Angela,Johnson,2019-08-26,familiar,No ha pagado,Ciencia Ficción,Titanic,39,México,Smart TV,5,True
+manderson@example.net,Michael,Cross,2020-11-16,2 pantallas,2024-05-04,Drama,The Crown,42,Japón,Smartphone,4,True
+apierce@example.net,Kelly,Williams,2020-03-17,familiar,2024-05-02,Horror,The Matrix,73,Francia,Tablet,5,True
+kayla85@example.net,Robert,Baxter,2020-02-25,2 pantallas,No ha pagado,Horror,The Crown,86,Argentina,Computadora,1,False
+stantonnancy@example.com,Christopher,Lewis,2020-10-07,2 pantallas,No ha pagado,Drama,Breaking Bad,22,Reino Unido,Tablet,3,True
+ashleybradley@example.com,Veronica,Gordon,2023-04-20,familiar,2024-05-04,Ciencia Ficción,The Mandalorian,49,Reino Unido,Smartphone,1,True
+bradleycarney@example.com,Ethan,Lopez,2021-05-12,2 pantallas,2024-05-11,Acción,The Mandalorian,133,Francia,Smart TV,2,True
+diana93@example.com,Anthony,Mendez,2021-10-22,1 pantalla,No ha pagado,Ciencia Ficción,The Crown,121,Canadá,Smart TV,4,False
+christopher75@example.org,Daniel,Nunez,2022-06-21,3 pantallas,2024-05-01,Ciencia Ficción,Titanic,9,Estados Unidos,Smartphone,2,False
+kyleyang@example.org,Craig,Hopkins,2019-09-19,3 pantallas,2024-05-12,Acción,The Dark Knight,77,España,Smart TV,4,False
+tracygrant@example.net,Ryan,Gonzalez,2021-05-27,1 pantalla,2024-05-09,Ciencia Ficción,The Crown,77,Japón,Tablet,5,False
+ajones@example.net,Eugene,Hays,2023-10-07,2 pantallas,2024-05-06,Documental,Inception,144,Canadá,Smart TV,2,True
+stanley37@example.net,Jessica,Miller,2023-05-10,3 pantallas,2024-05-01,Documental,Breaking Bad,16,Canadá,Smart TV,4,True
+megan69@example.org,John,Carter,2022-08-28,3 pantallas,2024-05-09,Documental,Breaking Bad,72,Alemania,Smart TV,1,False
+sharon91@example.net,Thomas,Griffith,2020-12-01,familiar,No ha pagado,Acción,The Dark Knight,38,Canadá,Smartphone,4,False
+pbell@example.org,Karen,Zavala,2023-04-08,3 pantallas,No ha pagado,Ciencia Ficción,The Mandalorian,26,Estados Unidos,Smartphone,3,False
+deborah39@example.org,Timothy,Ward,2024-04-15,2 pantallas,No ha pagado,Acción,The Matrix,75,Brasil,Computadora,2,False
+jessicasalas@example.net,Alicia,Rios,2023-01-10,familiar,No ha pagado,Drama,Stranger Things,103,Estados Unidos,Smartphone,1,True
+edrake@example.com,Emily,Kemp,2020-04-13,3 pantallas,2024-05-15,Ciencia Ficción,Titanic,135,Francia,Smart TV,5,True
+samuel00@example.org,Patricia,Graham,2021-06-29,2 pantallas,2024-05-17,Documental,The Mandalorian,64,Argentina,Tablet,4,True
+hcarlson@example.com,Christopher,Schmitt,2024-01-30,2 pantallas,2024-05-03,Drama,Black Mirror,44,Argentina,Smart TV,5,True
+stephanie72@example.org,Catherine,Jones,2020-07-27,2 pantallas,No ha pagado,Drama,The Dark Knight,55,Estados Unidos,Smartphone,4,True
+brownshane@example.com,Jeffery,Ryan,2020-02-18,familiar,No ha pagado,Drama,The Dark Knight,91,Alemania,Computadora,2,True
+princedana@example.com,Charles,Golden,2023-03-21,1 pantalla,2024-05-05,Comedia,Titanic,114,Alemania,Smartphone,1,False
+peterschristopher@example.net,Alec,Green,2020-12-19,3 pantallas,2024-05-09,Comedia,The Crown,108,Reino Unido,Tablet,1,True
+annchoi@example.net,Diana,Gonzalez,2020-08-12,1 pantalla,No ha pagado,Drama,Inception,56,México,Tablet,3,False
+robert68@example.com,Jacob,Jones,2022-01-10,2 pantallas,No ha pagado,Ciencia Ficción,The Crown,12,España,Computadora,2,False
+weisssamantha@example.org,Daniel,Bernard,2021-06-02,familiar,2024-05-10,Comedia,Black Mirror,148,España,Computadora,1,True
+joel00@example.org,Ariana,Velazquez,2019-06-26,familiar,2024-05-14,Drama,Black Mirror,113,Brasil,Computadora,4,False
+mitchellsteven@example.org,Mark,Mccoy,2021-06-29,2 pantallas,No ha pagado,Drama,The Crown,90,Canadá,Smartphone,2,True
+barryamy@example.com,Joseph,Winters,2021-03-09,2 pantallas,2024-05-14,Comedia,Black Mirror,6,Reino Unido,Computadora,5,True
+zcarter@example.com,Samantha,Brown,2020-10-10,3 pantallas,2024-05-16,Documental,The Mandalorian,10,España,Tablet,4,False
+charlesreed@example.net,Devin,Rogers,2019-09-28,1 pantalla,2024-05-03,Ciencia Ficción,The Crown,89,España,Smartphone,2,True
+mitchelljanice@example.com,Christine,Larsen,2019-09-01,familiar,No ha pagado,Horror,Black Mirror,58,Argentina,Tablet,1,True
+sydneywagner@example.com,Michael,Murray,2024-03-20,2 pantallas,2024-05-16,Horror,Inception,51,Francia,Smart TV,3,False
+matthew99@example.org,Michael,Parrish,2023-06-12,2 pantallas,No ha pagado,Drama,The Godfather,99,Brasil,Tablet,5,True
+stewartrobert@example.org,Roger,Blackwell,2020-01-15,1 pantalla,2024-05-16,Ciencia Ficción,Titanic,125,Estados Unidos,Computadora,3,False
+jennifer33@example.org,Savannah,Mckay,2023-05-18,1 pantalla,No ha pagado,Ciencia Ficción,The Dark Knight,90,España,Smart TV,4,False
+rogersmelissa@example.com,Mary,White,2022-08-18,familiar,No ha pagado,Comedia,The Dark Knight,78,Japón,Smartphone,4,False
+diazfrank@example.com,Rebecca,Garcia,2021-06-14,1 pantalla,No ha pagado,Drama,Breaking Bad,108,Francia,Computadora,3,False
+ronald27@example.net,Kevin,Saunders,2020-01-25,2 pantallas,2024-05-08,Drama,The Mandalorian,61,Alemania,Smart TV,1,True
+logan02@example.net,Robert,Hendrix,2021-02-28,3 pantallas,No ha pagado,Acción,The Matrix,93,Brasil,Smartphone,3,False
+michael01@example.net,Elizabeth,Martinez,2021-07-26,3 pantallas,No ha pagado,Documental,Titanic,52,Reino Unido,Computadora,1,False
+allenalvarez@example.org,Cynthia,Pierce,2019-10-03,familiar,2024-05-04,Comedia,Breaking Bad,19,Brasil,Smart TV,1,False
+michaelsmith@example.net,Deborah,Pope,2020-10-10,1 pantalla,No ha pagado,Documental,Titanic,11,Estados Unidos,Smart TV,2,True
+cooperrobert@example.net,Erika,Morgan,2022-09-16,3 pantallas,2024-05-16,Documental,Black Mirror,98,Brasil,Smart TV,3,True
+ialvarez@example.net,Paula,Thomas,2022-08-08,2 pantallas,No ha pagado,Documental,The Crown,116,Canadá,Tablet,2,False
+atucker@example.org,Alexander,Johnson,2022-01-03,2 pantallas,No ha pagado,Ciencia Ficción,Inception,94,Francia,Smart TV,5,False
+ortizmelissa@example.net,Emily,Mccall,2022-03-19,1 pantalla,No ha pagado,Horror,The Dark Knight,132,Brasil,Smart TV,3,True
+berrysarah@example.net,Kevin,Hughes,2020-04-06,3 pantallas,2024-05-17,Documental,The Crown,39,Reino Unido,Computadora,2,False
+conradthomas@example.com,Shawn,Smith,2021-04-26,1 pantalla,2024-05-15,Drama,Stranger Things,108,Brasil,Tablet,4,False
+christina81@example.org,Karen,Li,2022-04-03,familiar,No ha pagado,Comedia,Stranger Things,35,Canadá,Smart TV,1,True
+ewashington@example.com,Denise,Douglas,2021-07-01,2 pantallas,2024-05-13,Documental,The Dark Knight,88,Alemania,Computadora,1,False
+patrick39@example.net,Tara,Johnson,2019-06-29,1 pantalla,No ha pagado,Documental,Black Mirror,100,Francia,Smart TV,4,True
+natalie24@example.net,Courtney,Gonzalez,2022-01-23,3 pantallas,2024-05-04,Comedia,Black Mirror,141,Reino Unido,Computadora,1,True
+barajasjonathan@example.org,Monica,Dean,2019-09-09,familiar,No ha pagado,Documental,Black Mirror,43,Alemania,Smart TV,2,True
+kelseylowe@example.com,Sarah,Nicholson,2023-06-02,2 pantallas,2024-05-09,Horror,The Mandalorian,140,Argentina,Smart TV,2,True
+rachael65@example.com,Dan,Henderson,2022-09-25,1 pantalla,2024-05-01,Documental,The Matrix,61,México,Tablet,1,True
+stewartnicholas@example.com,Sara,Richardson,2020-05-23,familiar,2024-05-08,Ciencia Ficción,Stranger Things,34,Argentina,Smartphone,2,False
+bflores@example.org,John,Santos,2022-07-21,3 pantallas,2024-05-02,Ciencia Ficción,Black Mirror,102,Francia,Smartphone,2,True
+joedominguez@example.com,Kevin,Miller,2022-07-25,2 pantallas,No ha pagado,Documental,Breaking Bad,46,Estados Unidos,Computadora,3,False
+johnmeyer@example.org,Kelly,Ochoa,2023-02-19,2 pantallas,2024-05-09,Horror,The Godfather,137,Brasil,Smartphone,1,True
+mhardy@example.net,Christine,Smith,2024-02-09,familiar,2024-05-17,Comedia,Breaking Bad,42,España,Smart TV,3,False
+kevin25@example.com,Courtney,Huff,2024-03-18,3 pantallas,No ha pagado,Drama,Inception,53,Reino Unido,Tablet,1,False
+dthompson@example.org,Kenneth,Hayes,2020-09-11,2 pantallas,No ha pagado,Documental,The Crown,123,Japón,Smartphone,1,False
+vhenry@example.com,Robert,Woodward,2021-02-02,2 pantallas,2024-05-01,Drama,Inception,22,Argentina,Smartphone,4,False
+fleach@example.net,Troy,Davidson,2023-09-03,1 pantalla,2024-05-05,Drama,The Crown,133,Alemania,Tablet,5,False
+nicole71@example.com,Natasha,Hanson,2022-10-09,familiar,No ha pagado,Drama,The Dark Knight,61,Canadá,Computadora,1,False
+sandersmichael@example.org,Teresa,Gutierrez,2021-02-23,familiar,2024-05-16,Comedia,The Mandalorian,71,Canadá,Smart TV,5,False
+trobinson@example.org,Stephanie,Ruiz,2024-03-22,2 pantallas,2024-05-09,Horror,Titanic,105,Argentina,Smartphone,5,True
+ginawagner@example.org,Amanda,Jacobs,2022-02-14,3 pantallas,No ha pagado,Documental,The Godfather,89,Estados Unidos,Computadora,5,False
+xjennings@example.org,Jose,Morgan,2021-12-01,familiar,No ha pagado,Acción,Inception,113,Canadá,Tablet,4,True
+rwright@example.net,Andrew,Pearson,2023-01-18,familiar,No ha pagado,Documental,Breaking Bad,59,Alemania,Smart TV,5,True
+johnspence@example.com,Ruth,Walker,2023-01-27,familiar,2024-05-17,Comedia,The Godfather,32,Reino Unido,Computadora,2,False
+jacob95@example.org,Victoria,Nelson,2019-09-09,familiar,2024-05-07,Comedia,Stranger Things,63,Alemania,Smartphone,2,True
+marydelacruz@example.com,Kathleen,Poole,2022-10-28,familiar,No ha pagado,Horror,Inception,140,México,Smartphone,2,False
+saundersjennifer@example.org,Christina,Meadows,2019-07-10,1 pantalla,2024-05-06,Acción,Inception,82,Argentina,Tablet,2,False
+obennett@example.net,Stacey,Roberts,2022-03-05,2 pantallas,No ha pagado,Comedia,Black Mirror,41,México,Computadora,4,True
+vanessa51@example.net,Amanda,Franklin,2024-04-10,2 pantallas,No ha pagado,Drama,The Mandalorian,5,Francia,Smartphone,5,True
+zrose@example.com,Patricia,Oliver,2022-01-17,1 pantalla,No ha pagado,Acción,The Crown,116,Brasil,Tablet,1,True
+hernandezjonathan@example.net,Erin,Patrick,2023-11-13,2 pantallas,No ha pagado,Horror,The Mandalorian,7,Japón,Tablet,4,False
+jessica85@example.net,Jeffrey,Wagner,2019-11-26,3 pantallas,No ha pagado,Acción,The Mandalorian,30,Argentina,Smartphone,4,False
+mjohnson@example.net,Joyce,Gordon,2023-05-25,3 pantallas,2024-05-01,Acción,The Dark Knight,36,Alemania,Smartphone,1,False
+danielmiller@example.com,Elizabeth,Lawrence,2021-06-14,2 pantallas,2024-05-06,Comedia,The Crown,71,Estados Unidos,Tablet,4,False
+abigail75@example.org,Jason,Murray,2023-07-21,familiar,No ha pagado,Documental,The Godfather,88,Alemania,Tablet,5,True
+stephen84@example.org,Jennifer,Peterson,2019-09-09,2 pantallas,No ha pagado,Acción,Inception,25,Argentina,Smart TV,4,False
+tferrell@example.net,Shannon,Hogan,2021-12-05,3 pantallas,2024-05-03,Horror,The Crown,147,España,Computadora,1,False
+stevemartinez@example.net,Chad,Allen,2021-02-19,2 pantallas,No ha pagado,Acción,The Crown,132,Francia,Smartphone,3,False
+huffkrystal@example.com,Matthew,Bailey,2022-12-21,3 pantallas,No ha pagado,Documental,Black Mirror,61,España,Smartphone,3,True
+poncecarolyn@example.net,Cassandra,Palmer,2021-09-18,2 pantallas,2024-05-06,Ciencia Ficción,Breaking Bad,137,Francia,Computadora,2,True
+michelle19@example.com,Matthew,Mendoza,2019-08-01,1 pantalla,No ha pagado,Ciencia Ficción,The Godfather,15,Reino Unido,Computadora,5,False
+elizabeth25@example.com,Kimberly,Hines,2020-06-30,1 pantalla,No ha pagado,Drama,The Crown,123,Alemania,Smartphone,1,True
+watsonmatthew@example.com,Maria,Sims,2020-05-25,1 pantalla,No ha pagado,Ciencia Ficción,Inception,62,Estados Unidos,Computadora,1,True
+russell73@example.org,Robert,Yang,2021-10-11,2 pantallas,2024-05-14,Acción,The Crown,39,Estados Unidos,Smart TV,4,False
+danstone@example.net,Brad,Abbott,2023-01-30,familiar,No ha pagado,Ciencia Ficción,The Dark Knight,124,México,Tablet,2,True
+allisonsmith@example.com,Glenda,Abbott,2020-03-06,familiar,No ha pagado,Ciencia Ficción,Black Mirror,65,Alemania,Tablet,1,False
+emmabrown@example.org,Robert,Rogers,2020-05-15,3 pantallas,No ha pagado,Horror,The Matrix,26,Estados Unidos,Smartphone,2,True
+montgomeryalbert@example.org,Daniel,Booker,2020-08-24,2 pantallas,No ha pagado,Drama,The Dark Knight,136,Estados Unidos,Tablet,5,True
+kylesandoval@example.net,Stephen,Warren,2022-03-14,1 pantalla,No ha pagado,Acción,Breaking Bad,125,Francia,Smart TV,4,True
+sharonwalsh@example.org,Jeffrey,Ramirez,2021-01-08,3 pantallas,2024-05-16,Horror,The Godfather,54,Reino Unido,Computadora,5,True
+dwells@example.net,James,Martinez,2020-04-14,1 pantalla,No ha pagado,Ciencia Ficción,The Godfather,52,Estados Unidos,Computadora,1,True
+pattersonedward@example.com,Kylie,Campbell,2019-10-04,3 pantallas,No ha pagado,Drama,The Mandalorian,113,Reino Unido,Tablet,4,False
+ekim@example.org,James,Ray,2020-09-30,3 pantallas,No ha pagado,Acción,The Mandalorian,131,Japón,Smartphone,3,False
+nsimmons@example.org,Emily,Klein,2022-08-31,3 pantallas,No ha pagado,Acción,The Dark Knight,16,Estados Unidos,Smart TV,1,False
+sgonzales@example.com,Melanie,Watkins,2021-11-23,1 pantalla,No ha pagado,Comedia,Stranger Things,100,Japón,Smart TV,1,False
+marissawalton@example.com,Johnathan,Williams,2023-04-29,familiar,No ha pagado,Ciencia Ficción,The Mandalorian,147,Argentina,Tablet,5,False
+nrichardson@example.org,William,Mullins,2024-01-22,familiar,2024-05-04,Documental,The Mandalorian,41,Japón,Smart TV,3,False
+davislaurie@example.net,Andres,Dawson,2022-12-27,3 pantallas,No ha pagado,Drama,The Matrix,12,Alemania,Smart TV,1,False
+lindagonzales@example.com,Amanda,Nelson,2020-06-20,3 pantallas,No ha pagado,Acción,Black Mirror,132,Estados Unidos,Tablet,4,True
+heatherroman@example.net,Regina,Davis,2020-04-18,familiar,2024-05-12,Ciencia Ficción,The Dark Knight,20,Alemania,Computadora,3,True
+tara21@example.net,Jennifer,Hamilton,2020-08-04,familiar,No ha pagado,Ciencia Ficción,The Crown,110,Francia,Computadora,5,True
+kimberly12@example.net,Regina,Clark,2024-04-13,2 pantallas,No ha pagado,Acción,Titanic,14,Francia,Tablet,5,False
+christophermalone@example.net,Nicole,Baker,2021-11-25,1 pantalla,No ha pagado,Horror,The Dark Knight,87,Reino Unido,Smart TV,1,True
+nmarks@example.com,Jeffrey,Chavez,2019-11-21,2 pantallas,No ha pagado,Drama,The Mandalorian,55,Francia,Smart TV,4,True
+ortizlauren@example.net,Michael,Stephens,2020-01-06,familiar,2024-05-11,Comedia,The Dark Knight,66,Francia,Smart TV,1,False
+jennifer83@example.net,David,Price,2023-12-24,1 pantalla,No ha pagado,Acción,The Matrix,106,México,Computadora,1,False
+dli@example.com,Sara,Perez,2024-03-31,1 pantalla,No ha pagado,Drama,The Crown,91,Reino Unido,Smart TV,5,True
+james20@example.com,Evelyn,Marshall,2023-07-05,1 pantalla,2024-05-15,Drama,Titanic,119,Brasil,Tablet,1,False
+tblackburn@example.net,Kathryn,Hawkins,2022-01-23,1 pantalla,2024-05-04,Drama,Stranger Things,18,Brasil,Smart TV,5,False
+seanlawrence@example.com,Alvin,Wilson,2019-05-31,1 pantalla,No ha pagado,Acción,The Dark Knight,116,Japón,Computadora,3,False
+smithangel@example.com,Chloe,Nelson,2023-10-19,1 pantalla,2024-05-17,Acción,The Matrix,103,Francia,Smart TV,5,False
+larry11@example.org,Edward,Brown,2024-04-14,2 pantallas,No ha pagado,Horror,The Mandalorian,109,Reino Unido,Smart TV,5,False
+matthew97@example.org,Lindsey,Lynch,2022-01-13,familiar,2024-05-12,Comedia,The Dark Knight,103,Argentina,Smart TV,2,True
+nroberts@example.org,Cathy,Freeman,2020-07-26,2 pantallas,2024-05-06,Acción,The Dark Knight,104,México,Smartphone,3,False
+bbrown@example.com,Manuel,Barnes,2023-10-24,1 pantalla,No ha pagado,Documental,The Mandalorian,139,Brasil,Smart TV,3,False
+edward06@example.com,Kaylee,Stephens,2020-08-12,1 pantalla,2024-05-01,Ciencia Ficción,The Dark Knight,62,Japón,Tablet,2,True
+martharoberson@example.net,Gregory,Chavez,2023-06-14,1 pantalla,No ha pagado,Ciencia Ficción,The Matrix,50,Argentina,Smartphone,3,True
+huntjeffrey@example.com,Kenneth,Myers,2019-07-18,familiar,2024-05-07,Comedia,The Matrix,16,México,Smartphone,4,True
+jesus45@example.net,Kenneth,Kline,2023-06-11,2 pantallas,2024-05-05,Ciencia Ficción,Inception,73,Canadá,Smart TV,5,True
+butlertheresa@example.org,Nichole,Washington,2022-10-19,3 pantallas,2024-05-14,Acción,Stranger Things,145,Brasil,Smart TV,3,False
+debra87@example.net,Margaret,Hill,2021-07-31,familiar,No ha pagado,Documental,The Matrix,31,Canadá,Tablet,2,False
+kimberlywallace@example.com,Christine,Strickland,2019-11-06,2 pantallas,No ha pagado,Documental,The Dark Knight,96,Canadá,Smartphone,2,True
+collierandrew@example.org,Jay,Woods,2022-10-10,3 pantallas,2024-05-12,Comedia,Inception,41,España,Computadora,5,False
+wayne17@example.com,Jesus,Spencer,2022-12-24,1 pantalla,2024-05-08,Documental,Inception,89,Brasil,Smartphone,2,False
+ewatson@example.org,Terri,Collins,2022-09-13,2 pantallas,2024-05-04,Comedia,Black Mirror,47,Alemania,Tablet,1,False
+susanbrandt@example.org,Cynthia,Cole,2022-10-07,2 pantallas,No ha pagado,Ciencia Ficción,The Dark Knight,103,Francia,Tablet,2,True
+lreed@example.com,Justin,Hughes,2021-08-29,3 pantallas,No ha pagado,Acción,Breaking Bad,101,México,Smart TV,3,True
+steven71@example.net,Robert,Hall,2024-02-23,familiar,2024-05-05,Ciencia Ficción,The Matrix,65,Brasil,Smartphone,2,True
+hornealexandria@example.com,David,Mccarthy,2020-07-25,2 pantallas,No ha pagado,Horror,Breaking Bad,88,Brasil,Smartphone,2,True
+lburgess@example.com,Stephen,Farley,2021-11-22,2 pantallas,2024-05-01,Ciencia Ficción,The Matrix,129,Argentina,Computadora,4,True
+nathancook@example.com,Jeffrey,Medina,2020-05-06,2 pantallas,No ha pagado,Comedia,Inception,119,Argentina,Smartphone,4,True
+craigjonathan@example.com,Danielle,Malone,2020-09-21,3 pantallas,2024-05-11,Ciencia Ficción,Breaking Bad,9,México,Computadora,1,True
+jeremycastro@example.net,Aaron,Villa,2022-12-29,familiar,2024-05-10,Comedia,Stranger Things,130,México,Smartphone,5,False
+ethantucker@example.org,Colleen,Roberts,2024-04-30,1 pantalla,2024-05-09,Acción,The Crown,68,Francia,Computadora,5,True
+erikapineda@example.net,Norma,Hensley,2021-03-01,2 pantallas,2024-05-14,Drama,The Dark Knight,110,Estados Unidos,Tablet,1,False
+zachary47@example.com,Mary,Hernandez,2020-05-03,1 pantalla,No ha pagado,Documental,The Dark Knight,140,Canadá,Computadora,2,True
+williamfarmer@example.com,Jamie,Murray,2020-10-05,2 pantallas,2024-05-04,Comedia,The Matrix,45,España,Tablet,5,True
+hollybennett@example.com,Deborah,Ford,2023-01-07,familiar,2024-05-16,Drama,The Crown,127,Francia,Smartphone,3,True
+barrettbarbara@example.org,Brent,Carroll,2021-06-09,familiar,2024-05-11,Comedia,Inception,9,Francia,Smartphone,2,True
+patricia10@example.com,Grant,Smith,2021-01-14,1 pantalla,2024-05-01,Comedia,Breaking Bad,40,México,Computadora,5,False
+vrussell@example.org,Kevin,Myers,2022-11-05,3 pantallas,No ha pagado,Acción,Breaking Bad,148,Canadá,Smartphone,1,True
+ycolon@example.com,Megan,Wright,2023-07-01,2 pantallas,No ha pagado,Horror,Titanic,10,Estados Unidos,Tablet,1,True
+mossjustin@example.net,Amanda,Mclaughlin,2023-08-07,1 pantalla,No ha pagado,Acción,The Matrix,52,España,Tablet,5,False
+denisepeterson@example.net,Derrick,Torres,2021-06-05,3 pantallas,No ha pagado,Documental,Stranger Things,89,Brasil,Smart TV,1,True
+trevor12@example.org,Ashley,Mack,2022-09-13,2 pantallas,2024-05-05,Ciencia Ficción,Breaking Bad,47,Argentina,Computadora,5,False
+michaelvega@example.org,David,Barr,2023-09-10,2 pantallas,No ha pagado,Acción,Breaking Bad,133,Reino Unido,Smartphone,3,True
+amyhuff@example.org,Karina,Lawrence,2021-05-08,familiar,2024-05-09,Acción,Black Mirror,16,Japón,Tablet,5,True
+sheila18@example.net,Lori,Payne,2021-09-09,1 pantalla,2024-05-08,Comedia,Breaking Bad,59,España,Computadora,2,True
+davisedward@example.org,Melissa,Nelson,2021-11-07,3 pantallas,2024-05-04,Ciencia Ficción,The Godfather,37,Brasil,Tablet,1,False
+panderson@example.org,Steve,Fox,2020-05-11,1 pantalla,2024-05-01,Comedia,Titanic,17,Argentina,Smartphone,3,True
+annette51@example.com,Michael,Castillo,2022-07-22,familiar,2024-05-16,Comedia,The Mandalorian,87,Estados Unidos,Smartphone,4,False
+brianna61@example.net,Hannah,Burns,2019-12-23,3 pantallas,2024-05-01,Horror,Titanic,63,Reino Unido,Tablet,5,False
+andrewcastro@example.net,Amanda,Richardson,2020-11-29,1 pantalla,2024-05-07,Comedia,Titanic,140,Estados Unidos,Tablet,3,True
+joshuacowan@example.com,Mary,Woods,2021-06-11,2 pantallas,No ha pagado,Drama,The Mandalorian,49,Francia,Smart TV,5,True
+joycelawrence@example.net,Michelle,Brown,2023-07-16,familiar,No ha pagado,Drama,Black Mirror,136,Brasil,Tablet,5,False
+brittany49@example.net,Julie,Gilmore,2023-07-19,3 pantallas,2024-05-12,Horror,The Dark Knight,40,Estados Unidos,Smartphone,5,True
+madelinetaylor@example.com,Lauren,Jacobson,2023-10-14,3 pantallas,No ha pagado,Ciencia Ficción,Inception,64,México,Smart TV,3,True
+christophermcgee@example.net,Lisa,Montoya,2024-04-03,2 pantallas,No ha pagado,Acción,Inception,45,Brasil,Tablet,5,True
+kelly65@example.net,Nicholas,Murphy,2024-03-10,3 pantallas,2024-05-11,Ciencia Ficción,The Matrix,7,Japón,Smartphone,2,True
+ethomas@example.org,Andre,Chang,2020-07-13,3 pantallas,2024-05-03,Ciencia Ficción,The Godfather,106,España,Computadora,1,True
+pryan@example.net,Larry,Williams,2023-08-28,3 pantallas,2024-05-02,Ciencia Ficción,Inception,26,Japón,Computadora,1,True
+jfields@example.com,Melissa,Young,2022-02-27,3 pantallas,2024-05-01,Comedia,The Dark Knight,80,Brasil,Computadora,2,True
+oholt@example.org,Patricia,Hill,2022-08-02,familiar,No ha pagado,Horror,The Dark Knight,109,México,Tablet,5,True
+stephanieestrada@example.net,Rebecca,Harvey,2020-08-01,3 pantallas,2024-05-17,Documental,Stranger Things,82,Argentina,Tablet,1,False
+brendahorne@example.net,Connor,Willis,2019-08-01,2 pantallas,No ha pagado,Documental,The Mandalorian,129,Canadá,Smart TV,3,False
+arose@example.org,John,Robinson,2021-03-22,1 pantalla,No ha pagado,Documental,The Mandalorian,126,Canadá,Tablet,5,True
+umartinez@example.org,Christopher,Schneider,2019-10-01,2 pantallas,2024-05-01,Horror,The Mandalorian,70,Argentina,Computadora,3,True
+danielbenton@example.com,Kenneth,Johnson,2020-03-26,2 pantallas,No ha pagado,Drama,Stranger Things,29,Francia,Computadora,3,True
+claytonperry@example.com,Diane,Webster,2022-04-29,3 pantallas,2024-05-09,Documental,The Matrix,128,Estados Unidos,Tablet,1,True
+kathrynespinoza@example.org,Natalie,Neal,2019-06-18,2 pantallas,2024-05-03,Documental,The Crown,30,Alemania,Tablet,2,True
+gordonjonathan@example.org,Nicole,Duncan,2020-09-03,familiar,2024-05-08,Comedia,Black Mirror,131,España,Smart TV,3,True
+oconnoryolanda@example.net,Joan,Long,2020-11-15,2 pantallas,2024-05-11,Comedia,The Dark Knight,103,España,Computadora,5,False
+camachotrevor@example.org,Troy,Parker,2019-12-27,2 pantallas,No ha pagado,Documental,The Godfather,46,Francia,Computadora,1,False
+burtonjeffrey@example.net,Antonio,Wright,2020-04-30,2 pantallas,2024-05-06,Acción,The Matrix,59,España,Smartphone,1,False
+vharvey@example.net,Kenneth,Bridges,2023-11-03,familiar,2024-05-04,Drama,Titanic,78,Francia,Computadora,4,True
+michaelmartin@example.org,Erica,Smith,2019-07-18,2 pantallas,No ha pagado,Acción,The Dark Knight,145,Japón,Smartphone,2,False
+jason41@example.org,Ryan,Ortiz,2019-09-03,1 pantalla,No ha pagado,Acción,Black Mirror,74,Canadá,Smart TV,4,False
+schmidtdaniel@example.org,Sarah,Anderson,2019-12-21,1 pantalla,No ha pagado,Acción,Breaking Bad,39,Reino Unido,Tablet,2,True
+anthony13@example.net,Nicholas,Vaughan,2023-01-05,2 pantallas,No ha pagado,Acción,Breaking Bad,96,Francia,Smartphone,3,False
+frederickarmstrong@example.com,William,Smith,2023-09-25,3 pantallas,No ha pagado,Documental,Inception,70,Reino Unido,Smartphone,3,False
+rhondadixon@example.com,Nicole,Morrison,2023-11-22,1 pantalla,2024-05-02,Horror,Titanic,69,Brasil,Smartphone,5,True
+alejandrojohnson@example.org,David,Thomas,2019-12-20,2 pantallas,2024-05-05,Documental,Stranger Things,83,Argentina,Smart TV,1,True
+josephgregory@example.net,Todd,Drake,2021-07-23,1 pantalla,No ha pagado,Ciencia Ficción,Black Mirror,93,España,Smart TV,5,True
+brookebarnes@example.com,Stephen,Faulkner,2021-05-03,1 pantalla,2024-05-03,Documental,Stranger Things,147,Reino Unido,Computadora,5,True
+nicoledalton@example.org,Michael,Welch,2021-11-17,1 pantalla,2024-05-02,Comedia,Inception,68,España,Smartphone,3,False
+markrodriguez@example.net,Jennifer,Kelly,2023-11-18,1 pantalla,2024-05-08,Ciencia Ficción,Titanic,22,Canadá,Smartphone,3,False
+patrick22@example.org,Kevin,Price,2019-09-20,2 pantallas,No ha pagado,Acción,The Dark Knight,140,España,Smartphone,4,False
+alyssa63@example.com,Bobby,Oneill,2019-09-05,2 pantallas,2024-05-14,Acción,Titanic,113,España,Smart TV,1,True
+mforbes@example.com,Wesley,Whitney,2022-03-24,familiar,No ha pagado,Ciencia Ficción,Inception,65,México,Computadora,1,True
+fieldsjustin@example.net,Maria,Guzman,2022-08-31,1 pantalla,No ha pagado,Comedia,The Matrix,138,España,Smart TV,2,True
+pscott@example.net,Kathleen,Burgess,2019-10-12,1 pantalla,No ha pagado,Acción,The Mandalorian,95,México,Tablet,3,True
+fwilliamson@example.org,Larry,Torres,2021-12-29,2 pantallas,No ha pagado,Drama,Breaking Bad,28,Alemania,Tablet,1,False
+connor56@example.com,Justin,Harris,2022-12-29,familiar,No ha pagado,Comedia,The Crown,79,España,Smart TV,4,False
+larrymerritt@example.org,Jessica,Reyes,2019-11-20,1 pantalla,No ha pagado,Documental,Titanic,116,Estados Unidos,Smart TV,3,False
+vrodriguez@example.net,William,Little,2020-06-22,familiar,No ha pagado,Drama,The Godfather,140,Canadá,Smart TV,1,False
+dylan51@example.com,Matthew,Erickson,2021-02-01,familiar,2024-05-14,Documental,The Godfather,80,Estados Unidos,Smartphone,1,False
+nicole69@example.com,Maria,Fowler,2020-06-24,familiar,No ha pagado,Documental,Titanic,15,Estados Unidos,Smartphone,1,False
+seth24@example.org,Dan,Santana,2024-02-10,1 pantalla,No ha pagado,Horror,Stranger Things,38,Canadá,Smart TV,5,False
+sheila17@example.net,Brandon,Allen,2019-09-03,familiar,2024-05-03,Acción,Inception,111,Alemania,Smart TV,2,True
+rodrigueztracy@example.com,Tony,Perez,2021-06-24,3 pantallas,No ha pagado,Acción,Black Mirror,26,Brasil,Smart TV,5,False
+christopherwilson@example.com,Kara,Shepard,2020-09-26,familiar,2024-05-15,Comedia,The Godfather,6,Canadá,Smart TV,2,True
+janetkennedy@example.org,Brittany,Hodge,2021-03-31,2 pantallas,2024-05-16,Horror,The Mandalorian,138,Japón,Smart TV,5,True
+gregg31@example.com,Nicole,Rivas,2023-04-11,familiar,No ha pagado,Drama,Titanic,97,Estados Unidos,Tablet,5,False
+lambertsarah@example.net,Richard,Marshall,2020-08-04,familiar,No ha pagado,Documental,The Godfather,148,Brasil,Smart TV,1,True
+barry05@example.com,Stephen,Perkins,2020-10-21,2 pantallas,No ha pagado,Comedia,Inception,140,Japón,Computadora,1,False
+harold09@example.com,Karla,Collins,2020-03-11,3 pantallas,2024-05-08,Comedia,Black Mirror,112,Brasil,Smart TV,5,False
+plambert@example.com,Pamela,Martinez,2023-03-19,3 pantallas,No ha pagado,Acción,The Crown,13,Alemania,Smartphone,1,True
+iperez@example.net,Austin,Chambers,2024-04-20,3 pantallas,2024-05-08,Comedia,The Mandalorian,27,Argentina,Smartphone,5,False
+tcolon@example.com,Deborah,Gay,2021-09-28,1 pantalla,No ha pagado,Horror,Black Mirror,26,Japón,Smartphone,5,False
+wilsonsydney@example.org,Lawrence,Mcintosh,2022-10-25,1 pantalla,2024-05-08,Horror,The Matrix,69,Estados Unidos,Smartphone,5,False
+schaefergregory@example.net,Pamela,Marshall,2021-06-07,familiar,2024-05-10,Documental,Stranger Things,62,Canadá,Smart TV,5,False
+eric76@example.org,Mark,Velazquez,2019-11-10,3 pantallas,No ha pagado,Ciencia Ficción,Stranger Things,103,Japón,Computadora,1,True
+martinjohnson@example.net,Erik,Davis,2019-12-13,3 pantallas,2024-05-06,Drama,Black Mirror,141,Canadá,Tablet,4,True
+philipmarquez@example.org,Joshua,Thompson,2020-09-21,3 pantallas,No ha pagado,Acción,Breaking Bad,68,España,Computadora,2,True
+phillipsamber@example.com,Kimberly,Ross,2020-10-26,1 pantalla,2024-05-02,Drama,The Dark Knight,129,Brasil,Computadora,3,True
+allenandrew@example.org,Heidi,Roberts,2021-01-19,familiar,2024-05-03,Drama,Inception,73,México,Computadora,2,True
+horntaylor@example.com,Traci,Garcia,2023-01-20,1 pantalla,2024-05-08,Horror,Black Mirror,22,Argentina,Smartphone,5,False
+hlane@example.com,Katie,Green,2022-04-06,3 pantallas,2024-05-09,Documental,The Godfather,75,España,Smartphone,2,True
+gmitchell@example.net,John,Fuller,2020-04-14,3 pantallas,No ha pagado,Horror,The Matrix,114,Argentina,Smart TV,2,True
+joshua51@example.org,John,Harrington,2020-05-11,familiar,2024-05-02,Comedia,The Godfather,66,Francia,Smart TV,1,True
+adamsdenise@example.com,Haley,Moreno,2023-11-11,familiar,No ha pagado,Documental,Stranger Things,116,España,Smartphone,5,True
+jesseedwards@example.org,George,Cohen,2023-07-07,2 pantallas,2024-05-16,Drama,Inception,143,Alemania,Smart TV,5,False
+wilkersontyler@example.com,Aaron,Golden,2020-05-11,2 pantallas,No ha pagado,Comedia,Titanic,135,Reino Unido,Smart TV,3,True
+xmoore@example.org,Michael,Villanueva,2023-11-15,familiar,2024-05-09,Ciencia Ficción,The Dark Knight,35,Reino Unido,Tablet,2,True
+shawnharris@example.org,Heather,Perkins,2022-01-10,3 pantallas,No ha pagado,Comedia,The Crown,109,Japón,Smartphone,4,False
+adunlap@example.net,Christine,Simmons,2023-07-16,1 pantalla,No ha pagado,Horror,The Mandalorian,68,Estados Unidos,Smartphone,3,False
+jacksonlori@example.org,Zachary,Crane,2020-12-15,1 pantalla,2024-05-11,Documental,The Crown,48,Canadá,Smartphone,1,True
+danielle66@example.com,Cheyenne,Huang,2020-05-29,3 pantallas,2024-05-07,Horror,Titanic,106,México,Smartphone,1,True
+jennifermiller@example.net,Robert,Padilla,2022-10-19,familiar,No ha pagado,Horror,The Matrix,54,Estados Unidos,Smartphone,4,False
+kimberly57@example.net,Thomas,Johnson,2022-12-16,familiar,No ha pagado,Horror,Stranger Things,29,México,Computadora,3,False
+browncarlos@example.com,Kathleen,Campbell,2023-07-07,1 pantalla,No ha pagado,Ciencia Ficción,Black Mirror,136,Brasil,Smartphone,2,True
+davisashley@example.org,Pamela,Manning,2020-11-22,2 pantallas,No ha pagado,Drama,The Godfather,143,Estados Unidos,Tablet,4,True
+smithdavid@example.org,Jonathan,Dixon,2019-10-18,2 pantallas,No ha pagado,Comedia,Breaking Bad,34,España,Smart TV,4,False
+charles37@example.net,David,Ayala,2024-01-23,2 pantallas,2024-05-15,Comedia,The Crown,71,Argentina,Computadora,3,True
+dhutchinson@example.net,Alexandra,Garrison,2021-04-01,familiar,No ha pagado,Comedia,Inception,97,Reino Unido,Smartphone,4,True
+mcculloughjeff@example.com,Donald,Torres,2022-04-25,familiar,2024-05-14,Documental,Inception,140,Francia,Smart TV,4,False
+gordonamanda@example.com,Lori,Williams,2019-07-13,3 pantallas,No ha pagado,Drama,Black Mirror,14,Canadá,Smart TV,4,False
+jacquelinecompton@example.org,David,Warren,2021-04-26,familiar,2024-05-04,Ciencia Ficción,The Mandalorian,35,Argentina,Smartphone,3,True
+jenniferruiz@example.com,Robert,Gonzalez,2020-11-14,familiar,No ha pagado,Ciencia Ficción,The Dark Knight,125,España,Computadora,3,False
+kenneth65@example.org,Eric,Conley,2024-01-21,familiar,2024-05-05,Acción,The Matrix,78,Estados Unidos,Tablet,3,Truess
+richardcampbell@example.org,James,Sandoval,2020-03-21,familiar,2024-05-01,Drama,Inception,110,Canadá,Tablet,3,True
+robertsmakayla@example.org,Elizabeth,Villanueva,2022-08-10,2 pantallas,2024-05-01,Comedia,Inception,141,México,Tablet,3,True
+steven63@example.net,Gabriel,Randall,2020-01-06,1 pantalla,2024-05-04,Acción,Inception,8,México,Smartphone,3,False
+jennifergeorge@example.com,Emily,Warren,2020-01-15,familiar,No ha pagado,Drama,Stranger Things,134,Estados Unidos,Tablet,4,True
+aclark@example.com,Marissa,Atkins,2022-01-04,familiar,2024-05-03,Acción,Inception,110,Estados Unidos,Smart TV,4,False
+timothy07@example.org,Steven,Carey,2023-10-01,2 pantallas,2024-05-03,Drama,Inception,96,España,Computadora,3,True
+stephen01@example.org,Heather,Gilbert,2022-04-26,1 pantalla,2024-05-13,Ciencia Ficción,Titanic,115,Reino Unido,Smartphone,1,True
+nmejia@example.org,Rachael,Miller,2021-01-23,3 pantallas,No ha pagado,Drama,Titanic,101,Canadá,Smart TV,3,True
+okelley@example.com,Matthew,Mendoza,2023-07-04,3 pantallas,2024-05-09,Ciencia Ficción,Titanic,71,Japón,Smartphone,4,True
+gonzalezkyle@example.net,Mary,Gonzales,2020-03-17,3 pantallas,No ha pagado,Drama,Inception,110,Alemania,Tablet,2,True
+dthompson@example.org,Todd,George,2023-06-05,3 pantallas,No ha pagado,Ciencia Ficción,Titanic,132,España,Computadora,2,False
+philiphill@example.net,Troy,Davis,2022-07-17,familiar,No ha pagado,Comedia,Stranger Things,145,Japón,Smartphone,3,True
+deanna54@example.org,Brenda,Shelton,2020-09-22,3 pantallas,2024-05-12,Documental,The Godfather,23,Alemania,Smartphone,3,True
+lknight@example.org,Arthur,Bailey,2023-03-20,2 pantallas,No ha pagado,Acción,The Godfather,72,Estados Unidos,Computadora,1,True
+lisamcdaniel@example.com,Sandra,Romero,2020-01-24,1 pantalla,No ha pagado,Horror,Stranger Things,115,Francia,Smartphone,5,True
+guerrerodonald@example.com,Joseph,Lopez,2021-08-15,1 pantalla,No ha pagado,Comedia,Breaking Bad,96,Estados Unidos,Computadora,3,True
+michaelwright@example.org,Michael,Smith,2020-08-30,familiar,No ha pagado,Ciencia Ficción,The Crown,24,México,Computadora,5,True
+wgreen@example.net,Jacob,Andrews,2019-11-27,3 pantallas,2024-05-12,Ciencia Ficción,The Crown,137,Japón,Tablet,1,False
+nicholas53@example.net,Nicholas,Morris,2023-12-04,familiar,No ha pagado,Horror,Breaking Bad,94,Brasil,Smart TV,2,False
+brandonramirez@example.com,Ebony,Burns,2024-03-20,1 pantalla,2024-05-03,Drama,The Dark Knight,13,Brasil,Smart TV,5,False
+rhonda30@example.org,Julie,Wells,2023-12-21,1 pantalla,2024-05-10,Documental,The Crown,92,Argentina,Smartphone,2,True
+chloe40@example.net,Glen,Charles,2024-01-03,2 pantallas,No ha pagado,Horror,The Dark Knight,81,Canadá,Tablet,2,True
+madeline59@example.org,Michael,Elliott,2022-12-26,1 pantalla,2024-05-15,Drama,The Mandalorian,41,Alemania,Computadora,3,True
+lesliemeyer@example.org,John,Smith,2022-06-27,familiar,2024-05-06,Drama,Breaking Bad,32,México,Smart TV,4,False
+melody65@example.com,Terri,Cochran,2022-09-12,1 pantalla,No ha pagado,Comedia,The Godfather,122,Argentina,Smartphone,1,False
+bookermegan@example.com,Richard,Cardenas,2023-07-24,1 pantalla,No ha pagado,Drama,The Dark Knight,108,Reino Unido,Tablet,2,False
+fgardner@example.com,Rhonda,Hernandez,2020-06-09,familiar,2024-05-03,Comedia,Breaking Bad,119,España,Computadora,2,False
+hernandeztimothy@example.net,Mark,Smith,2020-08-04,1 pantalla,2024-05-12,Drama,The Matrix,143,México,Smart TV,5,False
+amber45@example.org,Joseph,Smith,2024-01-30,2 pantallas,No ha pagado,Drama,The Matrix,110,Francia,Smartphone,3,True
+rallen@example.net,Kaylee,Franklin,2024-01-02,1 pantalla,2024-05-09,Comedia,Inception,64,Argentina,Computadora,2,True
+jeremymalone@example.org,Nancy,Cruz,2023-05-22,2 pantallas,No ha pagado,Ciencia Ficción,The Mandalorian,20,Canadá,Smart TV,4,False
+rubenrodriguez@example.org,Erica,Jones,2020-03-31,1 pantalla,No ha pagado,Acción,Breaking Bad,58,Reino Unido,Smartphone,4,False
+michelle83@example.net,James,Gonzalez,2024-01-27,2 pantallas,No ha pagado,Ciencia Ficción,Breaking Bad,99,Argentina,Tablet,1,False
+vincenthill@example.org,Robin,Leonard,2020-06-06,1 pantalla,No ha pagado,Horror,The Matrix,72,España,Tablet,1,True
+lyoung@example.com,Lisa,Williamson,2023-07-01,1 pantalla,No ha pagado,Comedia,Titanic,108,Brasil,Tablet,4,True
+rebeccasmith@example.net,Aaron,Singleton,2022-11-16,3 pantallas,No ha pagado,Drama,Titanic,83,Alemania,Tablet,2,True
+chelsea36@example.net,Sheryl,Norman,2020-01-27,3 pantallas,No ha pagado,Horror,The Godfather,60,Alemania,Tablet,5,True
+tylerclark@example.com,Michael,Sparks,2021-09-26,3 pantallas,No ha pagado,Documental,Inception,140,Estados Unidos,Tablet,5,False
+fitzpatrickmichelle@example.com,Caitlin,Scott,2020-09-11,1 pantalla,2024-05-01,Comedia,Titanic,64,Francia,Computadora,2,True
+margaret76@example.net,Carolyn,Acosta,2023-10-17,1 pantalla,2024-05-16,Documental,Stranger Things,15,Argentina,Computadora,5,True
+woodpamela@example.com,Kimberly,Harris,2022-01-05,1 pantalla,No ha pagado,Drama,The Dark Knight,48,Brasil,Smart TV,3,False
+davidkelly@example.com,Matthew,Taylor,2023-12-03,2 pantallas,2024-05-07,Comedia,The Matrix,28,Argentina,Tablet,2,False
+marywagner@example.com,Dalton,Edwards,2021-03-01,2 pantallas,No ha pagado,Acción,The Crown,17,Reino Unido,Tablet,5,False
+thomasedwards@example.org,Francis,Brown,2020-08-25,1 pantalla,No ha pagado,Documental,Inception,129,Estados Unidos,Smartphone,4,True
+angelakelley@example.org,Scott,Patterson,2021-10-19,1 pantalla,2024-05-03,Drama,The Matrix,63,España,Smartphone,3,True
+victoria98@example.net,Timothy,Navarro,2019-07-17,1 pantalla,No ha pagado,Drama,The Mandalorian,61,Japón,Smart TV,3,True
+nicholas69@example.net,Frank,Bush,2021-05-23,2 pantallas,2024-05-11,Acción,The Crown,61,Argentina,Smart TV,1,False
+brandibray@example.com,Louis,Moore,2023-04-03,2 pantallas,No ha pagado,Acción,Inception,82,México,Smartphone,5,True
+amandalynch@example.com,Cory,Doyle,2020-01-22,familiar,2024-05-09,Drama,The Mandalorian,106,Brasil,Smart TV,1,False
+scombs@example.com,Catherine,Rose,2021-08-02,familiar,No ha pagado,Horror,Inception,102,España,Smartphone,4,False
+paul12@example.com,Dominique,Lara,2021-10-18,3 pantallas,2024-05-03,Comedia,The Mandalorian,65,México,Tablet,3,False
+pettymarisa@example.net,Jason,Thompson,2021-02-12,1 pantalla,2024-05-14,Drama,Titanic,77,Reino Unido,Computadora,5,True
+jwalker@example.com,Bailey,White,2021-09-22,3 pantallas,No ha pagado,Comedia,Stranger Things,75,Estados Unidos,Tablet,5,True
+kelly10@example.com,Penny,Pugh,2020-10-04,2 pantallas,No ha pagado,Horror,The Godfather,148,Brasil,Computadora,4,False
+iwilliams@example.com,Benjamin,Robbins,2023-02-26,3 pantallas,No ha pagado,Drama,Titanic,9,Brasil,Computadora,1,True
+ihenderson@example.com,Bethany,Rogers,2022-06-27,3 pantallas,No ha pagado,Horror,Titanic,22,Argentina,Smartphone,5,False
+jacobhill@example.net,Nancy,Jones,2020-12-15,1 pantalla,No ha pagado,Comedia,Breaking Bad,148,Reino Unido,Smart TV,4,False
+gperez@example.org,Diana,Mathis,2019-06-28,2 pantallas,2024-05-07,Comedia,Black Mirror,55,España,Tablet,4,False
+thomaspatricia@example.com,Henry,Morales,2023-05-30,1 pantalla,2024-05-11,Horror,Stranger Things,68,Alemania,Smartphone,5,True
+fbates@example.com,David,Thomas,2020-12-29,1 pantalla,No ha pagado,Acción,The Godfather,8,Estados Unidos,Smart TV,3,False
+paigewoodard@example.net,Melissa,Case,2024-04-20,familiar,No ha pagado,Horror,The Mandalorian,111,Japón,Smart TV,5,True
+laura86@example.org,Barbara,Newton,2021-08-04,familiar,No ha pagado,Drama,Inception,46,Alemania,Computadora,5,False
+sgonzalez@example.net,Christopher,Watts,2023-03-17,3 pantallas,2024-05-04,Ciencia Ficción,The Matrix,34,Brasil,Smart TV,5,False
+christina00@example.net,Alex,Hanna,2024-03-30,2 pantallas,No ha pagado,Drama,The Godfather,104,Alemania,Tablet,1,False
+kristin89@example.com,Zachary,Cox,2019-06-26,familiar,2024-05-03,Ciencia Ficción,Inception,102,Estados Unidos,Computadora,1,True
+nancy94@example.org,Laura,Mckay,2021-02-05,3 pantallas,2024-05-11,Documental,Breaking Bad,18,Argentina,Smart TV,3,False
+kimmatthew@example.net,Rebecca,Sanchez,2021-05-13,3 pantallas,2024-05-07,Ciencia Ficción,The Crown,149,Francia,Tablet,4,True
+hgreen@example.com,Erica,Rose,2019-09-30,1 pantalla,2024-05-16,Documental,The Mandalorian,32,Japón,Tablet,2,False
+ngarcia@example.org,Pamela,Foster,2020-04-10,1 pantalla,No ha pagado,Comedia,Titanic,116,Argentina,Computadora,2,False
+creed@example.org,Sandra,Nicholson,2023-02-01,1 pantalla,No ha pagado,Documental,The Dark Knight,146,Francia,Smart TV,1,True
+nroberts@example.com,Eric,White,2022-08-22,1 pantalla,No ha pagado,Acción,The Mandalorian,91,Reino Unido,Smart TV,4,False
+coxglenn@example.org,Lawrence,Evans,2022-11-19,2 pantallas,2024-05-14,Drama,Titanic,55,Reino Unido,Smartphone,1,True
+john81@example.org,Joseph,Lee,2024-04-16,1 pantalla,2024-05-17,Ciencia Ficción,Stranger Things,53,Reino Unido,Computadora,3,False
+ncobb@example.com,Melanie,Jackson,2022-06-17,2 pantallas,No ha pagado,Acción,The Crown,28,Alemania,Smart TV,4,False
+james84@example.com,Gregory,Strong,2022-07-26,1 pantalla,2024-05-06,Acción,Stranger Things,76,Japón,Tablet,4,False
+zball@example.org,Carolyn,Haynes,2021-04-06,3 pantallas,No ha pagado,Horror,The Dark Knight,44,Francia,Computadora,2,False
+tracyhuang@example.com,Jamie,Vazquez,2021-11-30,1 pantalla,2024-05-10,Drama,The Crown,82,Japón,Tablet,5,False
+wrubio@example.org,John,Henry,2020-01-17,2 pantallas,No ha pagado,Comedia,Breaking Bad,105,Brasil,Computadora,5,True
+david09@example.net,Jessica,Mejia,2022-04-03,3 pantallas,2024-05-09,Acción,Black Mirror,140,Canadá,Smartphone,2,False
+scottmiguel@example.com,Gabriel,Marshall,2023-08-19,2 pantallas,2024-05-16,Ciencia Ficción,The Crown,115,Reino Unido,Smart TV,2,False
+tharrison@example.org,Ryan,Brown,2019-06-20,3 pantallas,No ha pagado,Horror,Stranger Things,50,Canadá,Smartphone,5,True
+rhays@example.com,Kelly,Collier,2023-01-05,familiar,No ha pagado,Drama,Inception,146,Japón,Computadora,2,True
+barbara28@example.org,Cassandra,Anderson,2020-11-29,familiar,2024-05-08,Drama,Stranger Things,19,Argentina,Computadora,1,True
+cpennington@example.net,John,Martin,2024-01-01,3 pantallas,No ha pagado,Ciencia Ficción,Titanic,80,Francia,Smart TV,4,False
+rschultz@example.org,Ivan,Lowe,2023-11-09,2 pantallas,No ha pagado,Acción,The Crown,7,Reino Unido,Smartphone,3,False
+michelle13@example.org,Brittany,Smith,2022-02-04,3 pantallas,No ha pagado,Drama,The Matrix,81,Japón,Tablet,2,False
+john81@example.com,Bobby,Hughes,2023-05-21,familiar,No ha pagado,Documental,The Mandalorian,139,Estados Unidos,Smartphone,2,False
+knicholson@example.com,Jason,Flowers,2023-02-23,2 pantallas,No ha pagado,Ciencia Ficción,The Godfather,102,Alemania,Smart TV,5,True
+smithkenneth@example.com,Andrew,King,2019-07-31,2 pantallas,No ha pagado,Horror,Breaking Bad,19,Canadá,Computadora,1,False
+gonzalezaaron@example.org,Kathleen,Wiley,2020-05-19,familiar,2024-05-09,Acción,Stranger Things,114,Argentina,Smartphone,5,True
+daniel35@example.org,Randall,Russell,2022-07-05,2 pantallas,2024-05-04,Drama,The Crown,149,Canadá,Computadora,1,True
+reynoldswilliam@example.net,Laura,Bush,2022-12-17,1 pantalla,2024-05-16,Documental,The Matrix,124,España,Computadora,2,True
+pearsonrobert@example.org,Zachary,Wallace,2021-02-05,2 pantallas,2024-05-06,Comedia,Stranger Things,135,Japón,Computadora,2,True
+watsontheresa@example.org,Jody,Mercado,2021-03-03,1 pantalla,2024-05-15,Comedia,Inception,79,Argentina,Tablet,5,True
+ashleystewart@example.net,Austin,Rivera,2023-02-23,2 pantallas,No ha pagado,Drama,Stranger Things,148,Japón,Computadora,5,True
+vincent67@example.com,Brian,Ware,2021-03-03,familiar,2024-05-01,Acción,Inception,65,Brasil,Computadora,4,False
+derrick50@example.com,David,Davis,2023-12-25,2 pantallas,2024-05-07,Horror,Stranger Things,58,Japón,Smartphone,1,False
+lallen@example.net,Gerald,Owens,2024-02-06,1 pantalla,No ha pagado,Comedia,Black Mirror,58,Brasil,Smart TV,5,False
+sanchezmiranda@example.net,Alexander,Lane,2020-04-07,1 pantalla,No ha pagado,Drama,The Matrix,54,Estados Unidos,Computadora,2,False
+veronica91@example.org,Tracey,Allen,2021-11-04,3 pantallas,2024-05-11,Documental,Titanic,6,Japón,Smartphone,2,False
+kramertimothy@example.org,Alfred,Moore,2021-07-18,3 pantallas,No ha pagado,Comedia,The Crown,119,Argentina,Smart TV,5,False
+fredosborn@example.org,Laura,Walsh,2020-06-02,familiar,No ha pagado,Acción,Titanic,122,Argentina,Computadora,3,False
+gonzalezkimberly@example.net,Carlos,Moore,2022-11-28,3 pantallas,No ha pagado,Ciencia Ficción,Titanic,116,Francia,Tablet,3,False
+abenson@example.net,Lindsay,Glover,2021-09-07,3 pantallas,No ha pagado,Acción,The Godfather,22,Japón,Computadora,2,True
+lbush@example.com,Richard,Casey,2023-09-07,1 pantalla,2024-05-02,Comedia,The Godfather,111,Argentina,Computadora,5,False
+rboone@example.com,Steven,Nguyen,2020-04-14,familiar,No ha pagado,Acción,Black Mirror,14,México,Computadora,1,False
+acollins@example.net,Renee,Luna,2020-09-17,2 pantallas,2024-05-12,Drama,Stranger Things,75,España,Smartphone,2,False
+uroberson@example.org,Madison,Pineda,2021-02-15,3 pantallas,2024-05-11,Documental,The Mandalorian,19,Francia,Smartphone,2,False
+ocarroll@example.com,Kimberly,Olson,2021-02-25,familiar,2024-05-16,Documental,Stranger Things,76,Francia,Tablet,3,False
+jerry34@example.com,William,Sanchez,2021-07-13,2 pantallas,2024-05-05,Documental,The Dark Knight,19,Estados Unidos,Tablet,2,True
+jharris@example.net,David,Allen,2021-11-07,familiar,2024-05-17,Comedia,The Crown,102,Japón,Smart TV,2,False
+bharrell@example.net,Brian,Barrett,2022-12-28,1 pantalla,2024-05-02,Drama,Titanic,118,Canadá,Smart TV,2,False
+edwardcarroll@example.net,Megan,Johnston,2022-12-31,1 pantalla,2024-05-06,Ciencia Ficción,Breaking Bad,133,Francia,Tablet,4,True
+jordanmendez@example.net,Margaret,Reid,2021-09-03,familiar,No ha pagado,Horror,Black Mirror,91,España,Smartphone,3,False
+amybutler@example.org,Juan,Mcdaniel,2023-07-21,familiar,2024-05-01,Documental,Breaking Bad,92,Canadá,Tablet,2,True
+jeffrey30@example.net,Kimberly,Dillon,2022-05-24,3 pantallas,2024-05-02,Horror,Stranger Things,52,Japón,Computadora,5,False
+kellyrobert@example.net,Joseph,Zhang,2021-04-01,2 pantallas,No ha pagado,Horror,Black Mirror,56,Estados Unidos,Computadora,5,True
+joshua45@example.net,Jeanne,Schroeder,2020-10-29,1 pantalla,2024-05-13,Comedia,Stranger Things,67,Canadá,Tablet,4,True
+wkirby@example.net,Aaron,Robbins,2021-11-13,1 pantalla,No ha pagado,Comedia,The Mandalorian,69,Canadá,Computadora,2,False
+ericfoster@example.org,Timothy,Diaz,2023-07-30,1 pantalla,2024-05-17,Drama,The Godfather,80,Estados Unidos,Tablet,4,False
+kevinmarshall@example.net,Donald,Meadows,2020-08-31,familiar,No ha pagado,Comedia,The Matrix,115,Canadá,Computadora,3,True
+carollevy@example.com,Kevin,Stone,2023-07-19,familiar,No ha pagado,Horror,Titanic,113,Brasil,Smartphone,1,False
+fwilson@example.com,Donna,Mcgrath,2020-05-22,2 pantallas,No ha pagado,Horror,The Mandalorian,127,México,Smart TV,4,False
+ebrown@example.com,Phillip,Williams,2023-07-15,1 pantalla,No ha pagado,Horror,The Dark Knight,94,Reino Unido,Smart TV,3,False
+francoscott@example.net,Jamie,Lambert,2021-09-03,2 pantallas,2024-05-08,Drama,Inception,145,España,Smartphone,5,True
+tracyjones@example.org,William,Anderson,2019-09-20,2 pantallas,2024-05-01,Horror,The Mandalorian,70,Japón,Smartphone,4,True
+elizabeth50@example.org,Aaron,Gardner,2021-09-23,2 pantallas,No ha pagado,Drama,Titanic,89,España,Smart TV,5,False
+kyle37@example.net,Chad,Gonzalez,2020-04-08,familiar,2024-05-05,Acción,The Mandalorian,92,España,Computadora,2,False
+brownmichelle@example.com,Rebecca,Maddox,2020-12-16,1 pantalla,2024-05-10,Horror,The Matrix,113,Reino Unido,Smart TV,1,True
