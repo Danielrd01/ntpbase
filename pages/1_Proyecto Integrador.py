@@ -1,74 +1,66 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly.graph_objects as go
+
+# Configurar la página en modo ancho
+st.set_page_config(layout="wide")
 
 # Cargar los datos
-df = pd.read_csv('static/datasets/cuentas_similares_netflix.csv')
+df = pd.read_csv('ruta/al/archivo/dataset.csv')  # Reemplaza 'ruta/al/archivo/dataset.csv' con la ruta real del archivo CSV
 
 # Título de la página
-st.title("Cuentas Clientes Replay")
+st.title("Análisis de Defunciones en un Hospital")
 
-# Agregar un filtro para el tipo de dispositivo preferido
-dispositivos_preferidos = ['Todos'] + list(df['Dispositivo_Preferido'].unique())
-filtro_dispositivo = st.selectbox("Selecciona un tipo de dispositivo preferido", dispositivos_preferidos)
+# Filtros temporales
+st.sidebar.header("Filtros Temporales")
+ano = st.sidebar.selectbox("Selecciona el Año", sorted(df['ano'].unique()))
+trimestre = st.sidebar.selectbox("Selecciona el Trimestre", sorted(df['trimestre'].unique()))
+fecha_inicio = st.sidebar.date_input("Selecciona la Fecha de Inicio")
+fecha_fin = st.sidebar.date_input("Selecciona la Fecha de Fin")
 
-# Agregar un filtro para la fecha de ingreso
-fecha_min = pd.to_datetime(df['Fecha_Ingreso']).min().date()
-fecha_max = pd.to_datetime(df['Fecha_Ingreso']).max().date()
-fecha_inicio = st.date_input("Selecciona la fecha de inicio", fecha_min)
-fecha_fin = st.date_input("Selecciona la fecha de fin", fecha_max)
+# Filtros demográficos
+st.sidebar.header("Filtros Demográficos")
+sexo = st.sidebar.selectbox("Selecciona el Sexo", ['Todos'] + sorted(df['sexo_fallecido'].unique()))
+estado_conyugal = st.sidebar.selectbox("Selecciona el Estado Conyugal", ['Todos'] + sorted(df['estado_conyugal_fallecido'].unique()))
 
-# Agregar un filtro para el estado de pago
-estado_pago = st.selectbox("Selecciona el estado de pago", ["Todos", "Ha pagado", "No ha pagado"])
+# Filtros de causa de muerte
+st.sidebar.header("Filtros de Causa de Muerte")
+tipo_defuncion = st.sidebar.selectbox("Selecciona el Tipo de Defunción", ['Todos'] + sorted(df['tipo_defuncion'].unique()))
+probable_manera_muerte = st.sidebar.selectbox("Selecciona la Probable Manera de Muerte", ['Todos'] + sorted(df['probable_manera_muerte'].unique()))
 
-# Agregar un filtro para seleccionar cliente por cliente
-clientes = df['Correo'].unique()
-filtro_cliente = st.selectbox("Selecciona un cliente", ["Todos"] + list(clientes))
+# Convertir 'fecha_defuncion' a objetos de fecha
+df['fecha_defuncion'] = pd.to_datetime(df['fecha_defuncion']).dt.date
 
-# Calcular las cantidades exactas de cada dispositivo
-cantidades_dispositivos = df.groupby('Dispositivo_Preferido').size().reset_index()
-cantidades_dispositivos.columns = ['Dispositivo_Preferido', 'Cantidad']
+# Aplicar filtros
+df_filtered = df[(df['ano'] == ano) & 
+                 (df['trimestre'] == trimestre) & 
+                 (pd.to_datetime(df['fecha_defuncion']) >= fecha_inicio) & 
+                 (pd.to_datetime(df['fecha_defuncion']) <= fecha_fin)]
 
-# Actualizar el filtro de dispositivos para mostrar las cantidades exactas
-if filtro_dispositivo == 'Todos':
-    filtro_dispositivo_label = 'Todos'
-else:
-    cantidad_seleccionada = cantidades_dispositivos[cantidades_dispositivos['Dispositivo_Preferido'] == filtro_dispositivo]['Cantidad'].values[0]
-    filtro_dispositivo_label = f"{filtro_dispositivo} ({cantidad_seleccionada})"
+if sexo != 'Todos':
+    df_filtered = df_filtered[df_filtered['sexo_fallecido'] == sexo]
 
-# Filtrar los datos por el tipo de dispositivo preferido y el rango de fechas seleccionado
-if filtro_dispositivo != "Todos":
-    df_filtrado = df[df['Dispositivo_Preferido'] == filtro_dispositivo]
-else:
-    df_filtrado = df
+if estado_conyugal != 'Todos':
+    df_filtered = df_filtered[df_filtered['estado_conyugal_fallecido'] == estado_conyugal]
 
-# Aplicar los demás filtros
-df_filtrado = df_filtrado[(pd.to_datetime(df_filtrado['Fecha_Ingreso']).dt.date >= fecha_inicio) & 
-                          (pd.to_datetime(df_filtrado['Fecha_Ingreso']).dt.date <= fecha_fin)]
+if tipo_defuncion != 'Todos':
+    df_filtered = df_filtered[df_filtered['tipo_defuncion'] == tipo_defuncion]
 
-if estado_pago == "Ha pagado":
-    df_filtrado = df_filtrado[df_filtrado['Fecha_Pago'] != 'No ha pagado']
-elif estado_pago == "No ha pagado":
-    df_filtrado = df_filtrado[df_filtrado['Fecha_Pago'] == 'No ha pagado']
+if probable_manera_muerte != 'Todos':
+    df_filtered = df_filtered[df_filtered['probable_manera_muerte'] == probable_manera_muerte]
 
-if filtro_cliente != "Todos":
-    df_filtrado = df_filtrado[df_filtrado['Correo'] == filtro_cliente]
+# Mostrar los datos filtrados
+st.subheader("Datos Filtrados")
+st.write(df_filtered)
 
-# Mostrar los datos filtrados en una tabla
-st.write("### Datos filtrados:")
-st.dataframe(df_filtrado)
+# Visualización básica
+st.subheader("Visualización Básica")
 
-# Crear un gráfico de barras que muestre la cantidad de personas que usan cada tipo de dispositivo
-fig = px.bar(cantidades_dispositivos, x='Dispositivo_Preferido', y='Cantidad', 
-             title='Cantidad de personas por tipo de dispositivo preferido', 
-             color='Dispositivo_Preferido', color_discrete_map={'Smart TV': 'blue', 'Tablet': 'green', 'Computadora': 'orange', 'Smartphone': 'red'})
+# Gráfico de barras de cantidad de defunciones por trimestre
+df_trimestre_count = df_filtered.groupby('trimestre').size().reset_index(name='count')
+st.bar_chart(df_trimestre_count.set_index('trimestre'))
 
-# Mostrar las cantidades exactas en las barras
-for i in range(len(cantidades_dispositivos)):
-    fig.add_annotation(x=cantidades_dispositivos['Dispositivo_Preferido'][i], 
-                       y=cantidades_dispositivos['Cantidad'][i], 
-                       text=str(cantidades_dispositivos['Cantidad'][i]), 
-                       font=dict(color='black', size=12),
-                       showarrow=False)
-
+# Gráfico de pastel de tipo de defunción
+df_tipo_defuncion_count = df_filtered.groupby('tipo_defuncion').size().reset_index(name='count')
+fig = go.Figure(data=[go.Pie(labels=df_tipo_defuncion_count['tipo_defuncion'], values=df_tipo_defuncion_count['count'])])
 st.plotly_chart(fig)
