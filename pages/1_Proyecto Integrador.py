@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 st.set_page_config(layout="wide")
 
 # Cargar los datos
-df = pd.read_csv('ruta/al/archivo/dataset.csv')  # Reemplaza 'ruta/al/archivo/dataset.csv' con la ruta real del archivo CSV
+df = pd.read_csv('static/datasets/cuentas_similares_netflix.csv')  # Reemplaza 'ruta/al/archivo/dataset.csv' con la ruta real del archivo CSV
 
 # Título de la página
 st.title("Análisis de Defunciones en un Hospital")
