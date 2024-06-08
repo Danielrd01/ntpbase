@@ -7,7 +7,7 @@ st.title("Proyecto Integrador")
 st.header("Bienvenido a nuestro Proyecto Integrador")
 
 # Hero Section with image and project description
-st.image("https://i1.sndcdn.com/artworks-nTgGESMaN9t5TBxQ-xO5rFg-t500x500.jpg", width=600)
+st.image("https://www.magisnet.com/wp-content/uploads/2021/02/PROGRAMACIO%CC%81N.jpg", width=600)
 st.write("**Descripción del proyecto:** Breve descripción del proyecto, sus objetivos y su impacto.")
 
 # Project Overview
